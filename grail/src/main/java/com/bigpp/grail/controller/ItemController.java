@@ -21,6 +21,10 @@ public class ItemController {
         return itemService.getAllItems();
     }
 
+    @GetMapping("/found/{found}")
+    public List<Item> getFoundItems(@PathVariable boolean found) {
+    	return itemService.findByFound(found);
+    }
     @PostMapping
     public Item addItem(@RequestBody Item item) {
         return itemService.addItem(item);

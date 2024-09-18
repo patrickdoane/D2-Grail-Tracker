@@ -21,6 +21,10 @@ public class ItemService {
     public Item addItem(Item item) {
         return itemRepository.save(item);
     }
+    
+    public List<Item> findByFound(boolean found) {
+    	return itemRepository.findByFound(found);
+    }
 
     public void updateItem(Long id, Item item) {
     	item.setId(id);
