@@ -17,5 +17,8 @@ public class Item {
 
     private String name;
     private String type;
+    private String quality;
+    private Integer itemLvl;
+    
     private boolean found; // To track if the item has been found
 }

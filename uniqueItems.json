@@ -1,0 +1,3183 @@
+[
+  {
+    "found": false,
+    "itemLvl": 7,
+    "id": 128,
+    "name": "The Gnasher",
+    "quality": "unique",
+    "type": "hax"
+  },
+  {
+    "found": false,
+    "itemLvl": 12,
+    "id": 129,
+    "name": "Deathspade",
+    "quality": "unique",
+    "type": "axe"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 130,
+    "name": "Bladebone",
+    "quality": "unique",
+    "type": "2ax"
+  },
+  {
+    "found": false,
+    "itemLvl": 28,
+    "id": 131,
+    "name": "Mindrend",
+    "quality": "unique",
+    "type": "mpi"
+  },
+  {
+    "found": false,
+    "itemLvl": 36,
+    "id": 132,
+    "name": "Rakescar",
+    "quality": "unique",
+    "type": "wax"
+  },
+  {
+    "found": false,
+    "itemLvl": 11,
+    "id": 133,
+    "name": "Fechmars Axe",
+    "quality": "unique",
+    "type": "lax"
+  },
+  {
+    "found": false,
+    "itemLvl": 19,
+    "id": 134,
+    "name": "Goreshovel",
+    "quality": "unique",
+    "type": "bax"
+  },
+  {
+    "found": false,
+    "itemLvl": 26,
+    "id": 135,
+    "name": "The Chieftan",
+    "quality": "unique",
+    "type": "btx"
+  },
+  {
+    "found": false,
+    "itemLvl": 34,
+    "id": 136,
+    "name": "Brainhew",
+    "quality": "unique",
+    "type": "gax"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 137,
+    "name": "The Humongous",
+    "quality": "unique",
+    "type": "gix"
+  },
+  {
+    "found": false,
+    "itemLvl": 7,
+    "id": 138,
+    "name": "Iros Torch",
+    "quality": "unique",
+    "type": "wnd"
+  },
+  {
+    "found": false,
+    "itemLvl": 19,
+    "id": 139,
+    "name": "Maelstromwrath",
+    "quality": "unique",
+    "type": "ywn"
+  },
+  {
+    "found": false,
+    "itemLvl": 27,
+    "id": 140,
+    "name": "Gravenspine",
+    "quality": "unique",
+    "type": "bwn"
+  },
+  {
+    "found": false,
+    "itemLvl": 38,
+    "id": 141,
+    "name": "Umes Lament",
+    "quality": "unique",
+    "type": "gwn"
+  },
+  {
+    "found": false,
+    "itemLvl": 4,
+    "id": 142,
+    "name": "Felloak",
+    "quality": "unique",
+    "type": "clb"
+  },
+  {
+    "found": false,
+    "itemLvl": 7,
+    "id": 143,
+    "name": "Knell Striker",
+    "quality": "unique",
+    "type": "scp"
+  },
+  {
+    "found": false,
+    "itemLvl": 23,
+    "id": 144,
+    "name": "Rusthandle",
+    "quality": "unique",
+    "type": "gsc"
+  },
+  {
+    "found": false,
+    "itemLvl": 31,
+    "id": 145,
+    "name": "Stormeye",
+    "quality": "unique",
+    "type": "wsp"
+  },
+  {
+    "found": false,
+    "itemLvl": 7,
+    "id": 146,
+    "name": "Stoutnail",
+    "quality": "unique",
+    "type": "spc"
+  },
+  {
+    "found": false,
+    "itemLvl": 12,
+    "id": 147,
+    "name": "Crushflange",
+    "quality": "unique",
+    "type": "mac"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 148,
+    "name": "Bloodrise",
+    "quality": "unique",
+    "type": "mst"
+  },
+  {
+    "found": false,
+    "itemLvl": 28,
+    "id": 149,
+    "name": "The Generals Tan Do Li Ga",
+    "quality": "unique",
+    "type": "fla"
+  },
+  {
+    "found": false,
+    "itemLvl": 36,
+    "id": 150,
+    "name": "Ironstone",
+    "quality": "unique",
+    "type": "whm"
+  },
+  {
+    "found": false,
+    "itemLvl": 32,
+    "id": 151,
+    "name": "Bonesob",
+    "quality": "unique",
+    "type": "mau"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 152,
+    "name": "Steeldriver",
+    "quality": "unique",
+    "type": "gma"
+  },
+  {
+    "found": false,
+    "itemLvl": 3,
+    "id": 153,
+    "name": "Rixots Keen",
+    "quality": "unique",
+    "type": "ssd"
+  },
+  {
+    "found": false,
+    "itemLvl": 10,
+    "id": 154,
+    "name": "Blood Crescent",
+    "quality": "unique",
+    "type": "scm"
+  },
+  {
+    "found": false,
+    "itemLvl": 14,
+    "id": 155,
+    "name": "Krintizs Skewer",
+    "quality": "unique",
+    "type": "sbr"
+  },
+  {
+    "found": false,
+    "itemLvl": 18,
+    "id": 156,
+    "name": "Gleamscythe",
+    "quality": "unique",
+    "type": "flc"
+  },
+  {
+    "found": false,
+    "itemLvl": 18,
+    "id": 157,
+    "name": "Azurewrath",
+    "quality": "unique",
+    "type": "crs"
+  },
+  {
+    "found": false,
+    "itemLvl": 23,
+    "id": 158,
+    "name": "Griswolds Edge",
+    "quality": "unique",
+    "type": "bsd"
+  },
+  {
+    "found": false,
+    "itemLvl": 30,
+    "id": 159,
+    "name": "Hellplague",
+    "quality": "unique",
+    "type": "lsd"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 160,
+    "name": "Culwens Point",
+    "quality": "unique",
+    "type": "wsd"
+  },
+  {
+    "found": false,
+    "itemLvl": 16,
+    "id": 161,
+    "name": "Shadowfang",
+    "quality": "unique",
+    "type": "2hs"
+  },
+  {
+    "found": false,
+    "itemLvl": 26,
+    "id": 162,
+    "name": "Soulflay",
+    "quality": "unique",
+    "type": "clm"
+  },
+  {
+    "found": false,
+    "itemLvl": 31,
+    "id": 163,
+    "name": "Kinemils Awl",
+    "quality": "unique",
+    "type": "gis"
+  },
+  {
+    "found": false,
+    "itemLvl": 35,
+    "id": 164,
+    "name": "Blacktongue",
+    "quality": "unique",
+    "type": "bsw"
+  },
+  {
+    "found": false,
+    "itemLvl": 35,
+    "id": 165,
+    "name": "Ripsaw",
+    "quality": "unique",
+    "type": "flb"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 166,
+    "name": "The Patriarch",
+    "quality": "unique",
+    "type": "gsd"
+  },
+  {
+    "found": false,
+    "itemLvl": 6,
+    "id": 167,
+    "name": "Gull",
+    "quality": "unique",
+    "type": "dgr"
+  },
+  {
+    "found": false,
+    "itemLvl": 15,
+    "id": 168,
+    "name": "The Diggler",
+    "quality": "unique",
+    "type": "dir"
+  },
+  {
+    "found": false,
+    "itemLvl": 26,
+    "id": 169,
+    "name": "The Jade Tan Do",
+    "quality": "unique",
+    "type": "kri"
+  },
+  {
+    "found": false,
+    "itemLvl": 34,
+    "id": 170,
+    "name": "Irices Shard",
+    "quality": "unique",
+    "type": "bld"
+  },
+  {
+    "found": false,
+    "itemLvl": 11,
+    "id": 171,
+    "name": "The Dragon Chang",
+    "quality": "unique",
+    "type": "spr"
+  },
+  {
+    "found": false,
+    "itemLvl": 16,
+    "id": 172,
+    "name": "Razortine",
+    "quality": "unique",
+    "type": "tri"
+  },
+  {
+    "found": false,
+    "itemLvl": 23,
+    "id": 173,
+    "name": "Bloodthief",
+    "quality": "unique",
+    "type": "brn"
+  },
+  {
+    "found": false,
+    "itemLvl": 30,
+    "id": 174,
+    "name": "Lance of Yaggai",
+    "quality": "unique",
+    "type": "spt"
+  },
+  {
+    "found": false,
+    "itemLvl": 36,
+    "id": 175,
+    "name": "The Tannr Gorerod",
+    "quality": "unique",
+    "type": "pik"
+  },
+  {
+    "found": false,
+    "itemLvl": 11,
+    "id": 176,
+    "name": "Dimoaks Hew",
+    "quality": "unique",
+    "type": "bar"
+  },
+  {
+    "found": false,
+    "itemLvl": 19,
+    "id": 177,
+    "name": "Steelgoad",
+    "quality": "unique",
+    "type": "vou"
+  },
+  {
+    "found": false,
+    "itemLvl": 26,
+    "id": 178,
+    "name": "Soul Harvest",
+    "quality": "unique",
+    "type": "scy"
+  },
+  {
+    "found": false,
+    "itemLvl": 34,
+    "id": 179,
+    "name": "The Battlebranch",
+    "quality": "unique",
+    "type": "pax"
+  },
+  {
+    "found": false,
+    "itemLvl": 38,
+    "id": 180,
+    "name": "Woestave",
+    "quality": "unique",
+    "type": "hal"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 181,
+    "name": "The Grim Reaper",
+    "quality": "unique",
+    "type": "wsc"
+  },
+  {
+    "found": false,
+    "itemLvl": 7,
+    "id": 182,
+    "name": "Bane Ash",
+    "quality": "unique",
+    "type": "sst"
+  },
+  {
+    "found": false,
+    "itemLvl": 12,
+    "id": 183,
+    "name": "Serpent Lord",
+    "quality": "unique",
+    "type": "lst"
+  },
+  {
+    "found": false,
+    "itemLvl": 24,
+    "id": 184,
+    "name": "Lazarus Spire",
+    "quality": "unique",
+    "type": "cst"
+  },
+  {
+    "found": false,
+    "itemLvl": 28,
+    "id": 185,
+    "name": "The Salamander",
+    "quality": "unique",
+    "type": "bst"
+  },
+  {
+    "found": false,
+    "itemLvl": 38,
+    "id": 186,
+    "name": "The Iron Jang Bong",
+    "quality": "unique",
+    "type": "wst"
+  },
+  {
+    "found": false,
+    "itemLvl": 10,
+    "id": 187,
+    "name": "Pluckeye",
+    "quality": "unique",
+    "type": "sbw"
+  },
+  {
+    "found": false,
+    "itemLvl": 18,
+    "id": 188,
+    "name": "Witherstring",
+    "quality": "unique",
+    "type": "hbw"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 189,
+    "name": "Rimeraven",
+    "quality": "unique",
+    "type": "lbw"
+  },
+  {
+    "found": false,
+    "itemLvl": 27,
+    "id": 190,
+    "name": "Piercerib",
+    "quality": "unique",
+    "type": "cbw"
+  },
+  {
+    "found": false,
+    "itemLvl": 34,
+    "id": 191,
+    "name": "Pullspite",
+    "quality": "unique",
+    "type": "sbb"
+  },
+  {
+    "found": false,
+    "itemLvl": 35,
+    "id": 192,
+    "name": "Wizendraw",
+    "quality": "unique",
+    "type": "lbb"
+  },
+  {
+    "found": false,
+    "itemLvl": 36,
+    "id": 193,
+    "name": "Hellclap",
+    "quality": "unique",
+    "type": "swb"
+  },
+  {
+    "found": false,
+    "itemLvl": 38,
+    "id": 194,
+    "name": "Blastbark",
+    "quality": "unique",
+    "type": "lwb"
+  },
+  {
+    "found": false,
+    "itemLvl": 12,
+    "id": 195,
+    "name": "Leadcrow",
+    "quality": "unique",
+    "type": "lxb"
+  },
+  {
+    "found": false,
+    "itemLvl": 24,
+    "id": 196,
+    "name": "Ichorsting",
+    "quality": "unique",
+    "type": "mxb"
+  },
+  {
+    "found": false,
+    "itemLvl": 36,
+    "id": 197,
+    "name": "Hellcast",
+    "quality": "unique",
+    "type": "hxb"
+  },
+  {
+    "found": false,
+    "itemLvl": 38,
+    "id": 198,
+    "name": "Doomspittle",
+    "quality": "unique",
+    "type": "rxb"
+  },
+  {
+    "found": false,
+    "itemLvl": 4,
+    "id": 199,
+    "name": "War Bonnet",
+    "quality": "unique",
+    "type": "cap"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 200,
+    "name": "Tarnhelm",
+    "quality": "unique",
+    "type": "skp"
+  },
+  {
+    "found": false,
+    "itemLvl": 19,
+    "id": 201,
+    "name": "Coif of Glory",
+    "quality": "unique",
+    "type": "hlm"
+  },
+  {
+    "found": false,
+    "itemLvl": 23,
+    "id": 202,
+    "name": "Duskdeep",
+    "quality": "unique",
+    "type": "fhl"
+  },
+  {
+    "found": false,
+    "itemLvl": 28,
+    "id": 203,
+    "name": "Wormskull",
+    "quality": "unique",
+    "type": "bhm"
+  },
+  {
+    "found": false,
+    "itemLvl": 34,
+    "id": 204,
+    "name": "Howltusk",
+    "quality": "unique",
+    "type": "ghm"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 205,
+    "name": "Undead Crown",
+    "quality": "unique",
+    "type": "crn"
+  },
+  {
+    "found": false,
+    "itemLvl": 27,
+    "id": 206,
+    "name": "The Face of Horror",
+    "quality": "unique",
+    "type": "msk"
+  },
+  {
+    "found": false,
+    "itemLvl": 10,
+    "id": 207,
+    "name": "Greyform",
+    "quality": "unique",
+    "type": "qui"
+  },
+  {
+    "found": false,
+    "itemLvl": 16,
+    "id": 208,
+    "name": "Blinkbats Form",
+    "quality": "unique",
+    "type": "lea"
+  },
+  {
+    "found": false,
+    "itemLvl": 19,
+    "id": 209,
+    "name": "The Centurion",
+    "quality": "unique",
+    "type": "hla"
+  },
+  {
+    "found": false,
+    "itemLvl": 22,
+    "id": 210,
+    "name": "Twitchthroe",
+    "quality": "unique",
+    "type": "stu"
+  },
+  {
+    "found": false,
+    "itemLvl": 19,
+    "id": 211,
+    "name": "Darkglow",
+    "quality": "unique",
+    "type": "rng"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 212,
+    "name": "Hawkmail",
+    "quality": "unique",
+    "type": "scl"
+  },
+  {
+    "found": false,
+    "itemLvl": 23,
+    "id": 213,
+    "name": "Sparking Mail",
+    "quality": "unique",
+    "type": "chn"
+  },
+  {
+    "found": false,
+    "itemLvl": 27,
+    "id": 214,
+    "name": "Venomsward",
+    "quality": "unique",
+    "type": "brs"
+  },
+  {
+    "found": false,
+    "itemLvl": 30,
+    "id": 215,
+    "name": "Iceblink",
+    "quality": "unique",
+    "type": "spl"
+  },
+  {
+    "found": false,
+    "itemLvl": 35,
+    "id": 216,
+    "name": "Boneflesh",
+    "quality": "unique",
+    "type": "plt"
+  },
+  {
+    "found": false,
+    "itemLvl": 38,
+    "id": 217,
+    "name": "Rockfleece",
+    "quality": "unique",
+    "type": "fld"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 218,
+    "name": "Rattlecage",
+    "quality": "unique",
+    "type": "gth"
+  },
+  {
+    "found": false,
+    "itemLvl": 38,
+    "id": 219,
+    "name": "Goldskin",
+    "quality": "unique",
+    "type": "ful"
+  },
+  {
+    "found": false,
+    "itemLvl": 38,
+    "id": 220,
+    "name": "Victors Silk",
+    "quality": "unique",
+    "type": "aar"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 221,
+    "name": "Heavenly Garb",
+    "quality": "unique",
+    "type": "ltp"
+  },
+  {
+    "found": false,
+    "itemLvl": 3,
+    "id": 222,
+    "name": "Pelta Lunata",
+    "quality": "unique",
+    "type": "buc"
+  },
+  {
+    "found": false,
+    "itemLvl": 12,
+    "id": 223,
+    "name": "Umbral Disk",
+    "quality": "unique",
+    "type": "sml"
+  },
+  {
+    "found": false,
+    "itemLvl": 18,
+    "id": 224,
+    "name": "Stormguild",
+    "quality": "unique",
+    "type": "lrg"
+  },
+  {
+    "found": false,
+    "itemLvl": 27,
+    "id": 225,
+    "name": "Wall of the Eyeless",
+    "quality": "unique",
+    "type": "bsh"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 226,
+    "name": "Swordback Hold",
+    "quality": "unique",
+    "type": "spk"
+  },
+  {
+    "found": false,
+    "itemLvl": 23,
+    "id": 227,
+    "name": "Steelclash",
+    "quality": "unique",
+    "type": "kit"
+  },
+  {
+    "found": false,
+    "itemLvl": 26,
+    "id": 228,
+    "name": "Bverrit Keep",
+    "quality": "unique",
+    "type": "tow"
+  },
+  {
+    "found": false,
+    "itemLvl": 35,
+    "id": 229,
+    "name": "The Ward",
+    "quality": "unique",
+    "type": "gts"
+  },
+  {
+    "found": false,
+    "itemLvl": 7,
+    "id": 230,
+    "name": "The Hand of Broc",
+    "quality": "unique",
+    "type": "lgl"
+  },
+  {
+    "found": false,
+    "itemLvl": 12,
+    "id": 231,
+    "name": "Bloodfist",
+    "quality": "unique",
+    "type": "vgl"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 232,
+    "name": "Chance Guards",
+    "quality": "unique",
+    "type": "mgl"
+  },
+  {
+    "found": false,
+    "itemLvl": 31,
+    "id": 233,
+    "name": "Magefist",
+    "quality": "unique",
+    "type": "tgl"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 234,
+    "name": "Frostburn",
+    "quality": "unique",
+    "type": "hgl"
+  },
+  {
+    "found": false,
+    "itemLvl": 7,
+    "id": 235,
+    "name": "Hotspur",
+    "quality": "unique",
+    "type": "lbt"
+  },
+  {
+    "found": false,
+    "itemLvl": 12,
+    "id": 236,
+    "name": "Gorefoot",
+    "quality": "unique",
+    "type": "vbt"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 237,
+    "name": "Treads of Cthon",
+    "quality": "unique",
+    "type": "mbt"
+  },
+  {
+    "found": false,
+    "itemLvl": 30,
+    "id": 238,
+    "name": "Goblin Toe",
+    "quality": "unique",
+    "type": "tbt"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 239,
+    "name": "Tearhaunch",
+    "quality": "unique",
+    "type": "hbt"
+  },
+  {
+    "found": false,
+    "itemLvl": 10,
+    "id": 240,
+    "name": "Lenyms Cord",
+    "quality": "unique",
+    "type": "lbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 16,
+    "id": 241,
+    "name": "Snakecord",
+    "quality": "unique",
+    "type": "vbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 27,
+    "id": 242,
+    "name": "Nightsmoke",
+    "quality": "unique",
+    "type": "mbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 36,
+    "id": 243,
+    "name": "Goldwrap",
+    "quality": "unique",
+    "type": "tbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 244,
+    "name": "Bladebuckle",
+    "quality": "unique",
+    "type": "hbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 14,
+    "id": 245,
+    "name": "Nokozan Relic",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 246,
+    "name": "The Eye of Etlich",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 34,
+    "id": 247,
+    "name": "The Mahim-Oak Curio",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 10,
+    "id": 248,
+    "name": "Nagelring",
+    "quality": "unique",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 249,
+    "name": "Manald Heal",
+    "quality": "unique",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 250,
+    "name": "The Stone of Jordan",
+    "quality": "unique",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "id": 251,
+    "name": "Amulet of the Viper",
+    "quality": "unique",
+    "type": "vip"
+  },
+  {
+    "found": false,
+    "id": 252,
+    "name": "Staff of Kings",
+    "quality": "unique",
+    "type": "msf"
+  },
+  {
+    "found": false,
+    "id": 253,
+    "name": "Horadric Staff",
+    "quality": "unique",
+    "type": "hst"
+  },
+  {
+    "found": false,
+    "id": 254,
+    "name": "Hell Forge Hammer",
+    "quality": "unique",
+    "type": "hfh"
+  },
+  {
+    "found": false,
+    "id": 255,
+    "name": "KhalimFlail",
+    "quality": "unique",
+    "type": "qf1"
+  },
+  {
+    "found": false,
+    "id": 256,
+    "name": "SuperKhalimFlail",
+    "quality": "unique",
+    "type": "qf2"
+  },
+  {
+    "found": false,
+    "id": 257,
+    "name": "Expansion",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 44,
+    "id": 258,
+    "name": "Coldkill",
+    "quality": "unique",
+    "type": "9ha"
+  },
+  {
+    "found": false,
+    "itemLvl": 47,
+    "id": 259,
+    "name": "Butcher's Pupil",
+    "quality": "unique",
+    "type": "9ax"
+  },
+  {
+    "found": false,
+    "itemLvl": 51,
+    "id": 260,
+    "name": "Islestrike",
+    "quality": "unique",
+    "type": "92a"
+  },
+  {
+    "found": false,
+    "itemLvl": 53,
+    "id": 261,
+    "name": "Pompe's Wrath",
+    "quality": "unique",
+    "type": "9mp"
+  },
+  {
+    "found": false,
+    "itemLvl": 56,
+    "id": 262,
+    "name": "Guardian Naga",
+    "quality": "unique",
+    "type": "9wa"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 263,
+    "name": "Warlord's Trust",
+    "quality": "unique",
+    "type": "9la"
+  },
+  {
+    "found": false,
+    "itemLvl": 47,
+    "id": 264,
+    "name": "Spellsteel",
+    "quality": "unique",
+    "type": "9ba"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 265,
+    "name": "Stormrider",
+    "quality": "unique",
+    "type": "9bt"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 266,
+    "name": "Boneslayer Blade",
+    "quality": "unique",
+    "type": "9ga"
+  },
+  {
+    "found": false,
+    "itemLvl": 53,
+    "id": 267,
+    "name": "The Minataur",
+    "quality": "unique",
+    "type": "9gi"
+  },
+  {
+    "found": false,
+    "itemLvl": 41,
+    "id": 268,
+    "name": "Suicide Branch",
+    "quality": "unique",
+    "type": "9wn"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 269,
+    "name": "Carin Shard",
+    "quality": "unique",
+    "type": "9yw"
+  },
+  {
+    "found": false,
+    "itemLvl": 44,
+    "id": 270,
+    "name": "Arm of King Leoric",
+    "quality": "unique",
+    "type": "9bw"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 271,
+    "name": "Blackhand Key",
+    "quality": "unique",
+    "type": "9gw"
+  },
+  {
+    "found": false,
+    "itemLvl": 42,
+    "id": 272,
+    "name": "Dark Clan Crusher",
+    "quality": "unique",
+    "type": "9cl"
+  },
+  {
+    "found": false,
+    "itemLvl": 45,
+    "id": 273,
+    "name": "Zakarum's Hand",
+    "quality": "unique",
+    "type": "9sc"
+  },
+  {
+    "found": false,
+    "itemLvl": 46,
+    "id": 274,
+    "name": "The Fetid Sprinkler",
+    "quality": "unique",
+    "type": "9qs"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 275,
+    "name": "Hand of Blessed Light",
+    "quality": "unique",
+    "type": "9ws"
+  },
+  {
+    "found": false,
+    "itemLvl": 46,
+    "id": 276,
+    "name": "Fleshrender",
+    "quality": "unique",
+    "type": "9sp"
+  },
+  {
+    "found": false,
+    "itemLvl": 47,
+    "id": 277,
+    "name": "Sureshrill Frost",
+    "quality": "unique",
+    "type": "9ma"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 278,
+    "name": "Moonfall",
+    "quality": "unique",
+    "type": "9mt"
+  },
+  {
+    "found": false,
+    "itemLvl": 53,
+    "id": 279,
+    "name": "Baezil's Vortex",
+    "quality": "unique",
+    "type": "9fl"
+  },
+  {
+    "found": false,
+    "itemLvl": 51,
+    "id": 280,
+    "name": "Earthshaker",
+    "quality": "unique",
+    "type": "9wh"
+  },
+  {
+    "found": false,
+    "itemLvl": 56,
+    "id": 281,
+    "name": "Bloodtree Stump",
+    "quality": "unique",
+    "type": "9m9"
+  },
+  {
+    "found": false,
+    "itemLvl": 53,
+    "id": 282,
+    "name": "The Gavel of Pain",
+    "quality": "unique",
+    "type": "9gm"
+  },
+  {
+    "found": false,
+    "itemLvl": 38,
+    "id": 283,
+    "name": "Bloodletter",
+    "quality": "unique",
+    "type": "9ss"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 284,
+    "name": "Coldsteel Eye",
+    "quality": "unique",
+    "type": "9sm"
+  },
+  {
+    "found": false,
+    "itemLvl": 41,
+    "id": 285,
+    "name": "Hexfire",
+    "quality": "unique",
+    "type": "9sb"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 286,
+    "name": "Blade of Ali Baba",
+    "quality": "unique",
+    "type": "9fc"
+  },
+  {
+    "found": false,
+    "itemLvl": 45,
+    "id": 287,
+    "name": "Ginther's Rift",
+    "quality": "unique",
+    "type": "9cr"
+  },
+  {
+    "found": false,
+    "itemLvl": 47,
+    "id": 288,
+    "name": "Headstriker",
+    "quality": "unique",
+    "type": "9bs"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 289,
+    "name": "Plague Bearer",
+    "quality": "unique",
+    "type": "9ls"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 290,
+    "name": "The Atlantian",
+    "quality": "unique",
+    "type": "9wd"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 291,
+    "name": "Crainte Vomir",
+    "quality": "unique",
+    "type": "92h"
+  },
+  {
+    "found": false,
+    "itemLvl": 51,
+    "id": 292,
+    "name": "Bing Sz Wang",
+    "quality": "unique",
+    "type": "9cm"
+  },
+  {
+    "found": false,
+    "itemLvl": 52,
+    "id": 293,
+    "name": "The Vile Husk",
+    "quality": "unique",
+    "type": "9gs"
+  },
+  {
+    "found": false,
+    "itemLvl": 53,
+    "id": 294,
+    "name": "Cloudcrack",
+    "quality": "unique",
+    "type": "9b9"
+  },
+  {
+    "found": false,
+    "itemLvl": 54,
+    "id": 295,
+    "name": "Todesfaelle Flamme",
+    "quality": "unique",
+    "type": "9fb"
+  },
+  {
+    "found": false,
+    "itemLvl": 55,
+    "id": 296,
+    "name": "Swordguard",
+    "quality": "unique",
+    "type": "9gd"
+  },
+  {
+    "found": false,
+    "itemLvl": 40,
+    "id": 297,
+    "name": "Spineripper",
+    "quality": "unique",
+    "type": "9dg"
+  },
+  {
+    "found": false,
+    "itemLvl": 44,
+    "id": 298,
+    "name": "Heart Carver",
+    "quality": "unique",
+    "type": "9di"
+  },
+  {
+    "found": false,
+    "itemLvl": 46,
+    "id": 299,
+    "name": "Blackbog's Sharp",
+    "quality": "unique",
+    "type": "9kr"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 300,
+    "name": "Stormspike",
+    "quality": "unique",
+    "type": "9bl"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 301,
+    "name": "The Impaler",
+    "quality": "unique",
+    "type": "9sr"
+  },
+  {
+    "found": false,
+    "itemLvl": 41,
+    "id": 302,
+    "name": "Kelpie Snare",
+    "quality": "unique",
+    "type": "9tr"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 303,
+    "name": "Soulfeast Tine",
+    "quality": "unique",
+    "type": "9br"
+  },
+  {
+    "found": false,
+    "itemLvl": 45,
+    "id": 304,
+    "name": "Hone Sundan",
+    "quality": "unique",
+    "type": "9st"
+  },
+  {
+    "found": false,
+    "itemLvl": 47,
+    "id": 305,
+    "name": "Spire of Honor",
+    "quality": "unique",
+    "type": "9p9"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 306,
+    "name": "The Meat Scraper",
+    "quality": "unique",
+    "type": "9b7"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 307,
+    "name": "Blackleach Blade",
+    "quality": "unique",
+    "type": "9vo"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 308,
+    "name": "Athena's Wrath",
+    "quality": "unique",
+    "type": "9s8"
+  },
+  {
+    "found": false,
+    "itemLvl": 51,
+    "id": 309,
+    "name": "Pierre Tombale Couant",
+    "quality": "unique",
+    "type": "9pa"
+  },
+  {
+    "found": false,
+    "itemLvl": 52,
+    "id": 310,
+    "name": "Husoldal Evo",
+    "quality": "unique",
+    "type": "9h9"
+  },
+  {
+    "found": false,
+    "itemLvl": 52,
+    "id": 311,
+    "name": "Grim's Burning Dead",
+    "quality": "unique",
+    "type": "9wc"
+  },
+  {
+    "found": false,
+    "itemLvl": 36,
+    "id": 312,
+    "name": "Razorswitch",
+    "quality": "unique",
+    "type": "8ss"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 313,
+    "name": "Ribcracker",
+    "quality": "unique",
+    "type": "8ls"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 314,
+    "name": "Chromatic Ire",
+    "quality": "unique",
+    "type": "8cs"
+  },
+  {
+    "found": false,
+    "itemLvl": 47,
+    "id": 315,
+    "name": "Warpspear",
+    "quality": "unique",
+    "type": "8bs"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 316,
+    "name": "Skullcollector",
+    "quality": "unique",
+    "type": "8ws"
+  },
+  {
+    "found": false,
+    "itemLvl": 36,
+    "id": 317,
+    "name": "Skystrike",
+    "quality": "unique",
+    "type": "8sb"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 318,
+    "name": "Riphook",
+    "quality": "unique",
+    "type": "8hb"
+  },
+  {
+    "found": false,
+    "itemLvl": 41,
+    "id": 319,
+    "name": "Kuko Shakaku",
+    "quality": "unique",
+    "type": "8lb"
+  },
+  {
+    "found": false,
+    "itemLvl": 44,
+    "id": 320,
+    "name": "Endlesshail",
+    "quality": "unique",
+    "type": "8cb"
+  },
+  {
+    "found": false,
+    "itemLvl": 47,
+    "id": 321,
+    "name": "Whichwild String",
+    "quality": "unique",
+    "type": "8s8"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 322,
+    "name": "Cliffkiller",
+    "quality": "unique",
+    "type": "8l8"
+  },
+  {
+    "found": false,
+    "itemLvl": 51,
+    "id": 323,
+    "name": "Magewrath",
+    "quality": "unique",
+    "type": "8sw"
+  },
+  {
+    "found": false,
+    "itemLvl": 54,
+    "id": 324,
+    "name": "Godstrike Arch",
+    "quality": "unique",
+    "type": "8lw"
+  },
+  {
+    "found": false,
+    "itemLvl": 40,
+    "id": 325,
+    "name": "Langer Briser",
+    "quality": "unique",
+    "type": "8lx"
+  },
+  {
+    "found": false,
+    "itemLvl": 44,
+    "id": 326,
+    "name": "Pus Spiter",
+    "quality": "unique",
+    "type": "8mx"
+  },
+  {
+    "found": false,
+    "itemLvl": 59,
+    "id": 327,
+    "name": "Buriza-Do Kyanon",
+    "quality": "unique",
+    "type": "8hx"
+  },
+  {
+    "found": false,
+    "itemLvl": 57,
+    "id": 328,
+    "name": "Demon Machine",
+    "quality": "unique",
+    "type": "8rx"
+  },
+  {
+    "found": false,
+    "id": 329,
+    "name": "Armor",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 36,
+    "id": 330,
+    "name": "Peasent Crown",
+    "quality": "unique",
+    "type": "xap"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 331,
+    "name": "Rockstopper",
+    "quality": "unique",
+    "type": "xkp"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 332,
+    "name": "Stealskull",
+    "quality": "unique",
+    "type": "xlm"
+  },
+  {
+    "found": false,
+    "itemLvl": 46,
+    "id": 333,
+    "name": "Darksight Helm",
+    "quality": "unique",
+    "type": "xhl"
+  },
+  {
+    "found": false,
+    "itemLvl": 52,
+    "id": 334,
+    "name": "Valkiry Wing",
+    "quality": "unique",
+    "type": "xhm"
+  },
+  {
+    "found": false,
+    "itemLvl": 57,
+    "id": 335,
+    "name": "Crown of Thieves",
+    "quality": "unique",
+    "type": "xrn"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 336,
+    "name": "Blackhorn's Face",
+    "quality": "unique",
+    "type": "xsk"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 337,
+    "name": "Vampiregaze",
+    "quality": "unique",
+    "type": "xh9"
+  },
+  {
+    "found": false,
+    "itemLvl": 36,
+    "id": 338,
+    "name": "The Spirit Shroud",
+    "quality": "unique",
+    "type": "xui"
+  },
+  {
+    "found": false,
+    "itemLvl": 37,
+    "id": 339,
+    "name": "Skin of the Vipermagi",
+    "quality": "unique",
+    "type": "xea"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 340,
+    "name": "Skin of the Flayerd One",
+    "quality": "unique",
+    "type": "xla"
+  },
+  {
+    "found": false,
+    "itemLvl": 41,
+    "id": 341,
+    "name": "Ironpelt",
+    "quality": "unique",
+    "type": "xtu"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 342,
+    "name": "Spiritforge",
+    "quality": "unique",
+    "type": "xng"
+  },
+  {
+    "found": false,
+    "itemLvl": 45,
+    "id": 343,
+    "name": "Crow Caw",
+    "quality": "unique",
+    "type": "xcl"
+  },
+  {
+    "found": false,
+    "itemLvl": 46,
+    "id": 344,
+    "name": "Shaftstop",
+    "quality": "unique",
+    "type": "xhn"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 345,
+    "name": "Duriel's Shell",
+    "quality": "unique",
+    "type": "xrs"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 346,
+    "name": "Skullder's Ire",
+    "quality": "unique",
+    "type": "xpl"
+  },
+  {
+    "found": false,
+    "itemLvl": 53,
+    "id": 347,
+    "name": "Guardian Angel",
+    "quality": "unique",
+    "type": "xlt"
+  },
+  {
+    "found": false,
+    "itemLvl": 56,
+    "id": 348,
+    "name": "Toothrow",
+    "quality": "unique",
+    "type": "xld"
+  },
+  {
+    "found": false,
+    "itemLvl": 59,
+    "id": 349,
+    "name": "Atma's Wail",
+    "quality": "unique",
+    "type": "xth"
+  },
+  {
+    "found": false,
+    "itemLvl": 61,
+    "id": 350,
+    "name": "Black Hades",
+    "quality": "unique",
+    "type": "xul"
+  },
+  {
+    "found": false,
+    "itemLvl": 63,
+    "id": 351,
+    "name": "Corpsemourn",
+    "quality": "unique",
+    "type": "xar"
+  },
+  {
+    "found": false,
+    "itemLvl": 59,
+    "id": 352,
+    "name": "Que-Hegan's Wisdon",
+    "quality": "unique",
+    "type": "xtp"
+  },
+  {
+    "found": false,
+    "itemLvl": 36,
+    "id": 353,
+    "name": "Visceratuant",
+    "quality": "unique",
+    "type": "xuc"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 354,
+    "name": "Mosers Blessed Circle",
+    "quality": "unique",
+    "type": "xml"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 355,
+    "name": "Stormchaser",
+    "quality": "unique",
+    "type": "xrg"
+  },
+  {
+    "found": false,
+    "itemLvl": 46,
+    "id": 356,
+    "name": "Tiamat's Rebuke",
+    "quality": "unique",
+    "type": "xit"
+  },
+  {
+    "found": false,
+    "itemLvl": 52,
+    "id": 357,
+    "name": "Kerke's Sanctuary",
+    "quality": "unique",
+    "type": "xow"
+  },
+  {
+    "found": false,
+    "itemLvl": 58,
+    "id": 358,
+    "name": "Radimant's Sphere",
+    "quality": "unique",
+    "type": "xts"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 359,
+    "name": "Lidless Wall",
+    "quality": "unique",
+    "type": "xsh"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 360,
+    "name": "Lance Guard",
+    "quality": "unique",
+    "type": "xpk"
+  },
+  {
+    "found": false,
+    "itemLvl": 37,
+    "id": 361,
+    "name": "Venom Grip",
+    "quality": "unique",
+    "type": "xlg"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 362,
+    "name": "Gravepalm",
+    "quality": "unique",
+    "type": "xvg"
+  },
+  {
+    "found": false,
+    "itemLvl": 44,
+    "id": 363,
+    "name": "Ghoulhide",
+    "quality": "unique",
+    "type": "xmg"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 364,
+    "name": "Lavagout",
+    "quality": "unique",
+    "type": "xtg"
+  },
+  {
+    "found": false,
+    "itemLvl": 55,
+    "id": 365,
+    "name": "Hellmouth",
+    "quality": "unique",
+    "type": "xhg"
+  },
+  {
+    "found": false,
+    "itemLvl": 37,
+    "id": 366,
+    "name": "Infernostride",
+    "quality": "unique",
+    "type": "xlb"
+  },
+  {
+    "found": false,
+    "itemLvl": 40,
+    "id": 367,
+    "name": "Waterwalk",
+    "quality": "unique",
+    "type": "xvb"
+  },
+  {
+    "found": false,
+    "itemLvl": 44,
+    "id": 368,
+    "name": "Silkweave",
+    "quality": "unique",
+    "type": "xmb"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 369,
+    "name": "Wartraveler",
+    "quality": "unique",
+    "type": "xtb"
+  },
+  {
+    "found": false,
+    "itemLvl": 55,
+    "id": 370,
+    "name": "Gorerider",
+    "quality": "unique",
+    "type": "xhb"
+  },
+  {
+    "found": false,
+    "itemLvl": 37,
+    "id": 371,
+    "name": "String of Ears",
+    "quality": "unique",
+    "type": "zlb"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 372,
+    "name": "Razortail",
+    "quality": "unique",
+    "type": "zvb"
+  },
+  {
+    "found": false,
+    "itemLvl": 45,
+    "id": 373,
+    "name": "Gloomstrap",
+    "quality": "unique",
+    "type": "zmb"
+  },
+  {
+    "found": false,
+    "itemLvl": 49,
+    "id": 374,
+    "name": "Snowclash",
+    "quality": "unique",
+    "type": "ztb"
+  },
+  {
+    "found": false,
+    "itemLvl": 55,
+    "id": 375,
+    "name": "Thudergod's Vigor",
+    "quality": "unique",
+    "type": "zhb"
+  },
+  {
+    "found": false,
+    "id": 376,
+    "name": "Elite Uniques",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 69,
+    "id": 377,
+    "name": "Harlequin Crest",
+    "quality": "unique",
+    "type": "uap"
+  },
+  {
+    "found": false,
+    "itemLvl": 77,
+    "id": 378,
+    "name": "Veil of Steel",
+    "quality": "unique",
+    "type": "uhm"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 379,
+    "name": "The Gladiator's Bane",
+    "quality": "unique",
+    "type": "utu"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 380,
+    "name": "Arkaine's Valor",
+    "quality": "unique",
+    "type": "upl"
+  },
+  {
+    "found": false,
+    "itemLvl": 67,
+    "id": 381,
+    "name": "Blackoak Shield",
+    "quality": "unique",
+    "type": "uml"
+  },
+  {
+    "found": false,
+    "itemLvl": 77,
+    "id": 382,
+    "name": "Stormshield",
+    "quality": "unique",
+    "type": "uit"
+  },
+  {
+    "found": false,
+    "itemLvl": 71,
+    "id": 383,
+    "name": "Hellslayer",
+    "quality": "unique",
+    "type": "7bt"
+  },
+  {
+    "found": false,
+    "itemLvl": 75,
+    "id": 384,
+    "name": "Messerschmidt's Reaver",
+    "quality": "unique",
+    "type": "7ga"
+  },
+  {
+    "found": false,
+    "itemLvl": 70,
+    "id": 385,
+    "name": "Baranar's Star",
+    "quality": "unique",
+    "type": "7mt"
+  },
+  {
+    "found": false,
+    "itemLvl": 83,
+    "id": 386,
+    "name": "Schaefer's Hammer",
+    "quality": "unique",
+    "type": "7wh"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 387,
+    "name": "The Cranium Basher",
+    "quality": "unique",
+    "type": "7gm"
+  },
+  {
+    "found": false,
+    "itemLvl": 66,
+    "id": 388,
+    "name": "Lightsabre",
+    "quality": "unique",
+    "type": "7cr"
+  },
+  {
+    "found": false,
+    "itemLvl": 75,
+    "id": 389,
+    "name": "Doombringer",
+    "quality": "unique",
+    "type": "7b7"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 390,
+    "name": "The Grandfather",
+    "quality": "unique",
+    "type": "7gd"
+  },
+  {
+    "found": false,
+    "itemLvl": 69,
+    "id": 391,
+    "name": "Wizardspike",
+    "quality": "unique",
+    "type": "7dg"
+  },
+  {
+    "found": false,
+    "itemLvl": 95,
+    "id": 392,
+    "name": "Constricting Ring",
+    "quality": "unique",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "itemLvl": 78,
+    "id": 393,
+    "name": "Stormspire",
+    "quality": "unique",
+    "type": "7wc"
+  },
+  {
+    "found": false,
+    "itemLvl": 77,
+    "id": 394,
+    "name": "Eaglehorn",
+    "quality": "unique",
+    "type": "6l7"
+  },
+  {
+    "found": false,
+    "itemLvl": 80,
+    "id": 395,
+    "name": "Windforce",
+    "quality": "unique",
+    "type": "6lw"
+  },
+  {
+    "found": false,
+    "id": 396,
+    "name": "Rings",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 66,
+    "id": 397,
+    "name": "Bul Katho's Wedding Band",
+    "quality": "unique",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "itemLvl": 58,
+    "id": 398,
+    "name": "The Cat's Eye",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 73,
+    "id": 399,
+    "name": "The Rising Sun",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 58,
+    "id": 400,
+    "name": "Crescent Moon",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 80,
+    "id": 401,
+    "name": "Mara's Kaleidoscope",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 60,
+    "id": 402,
+    "name": "Atma's Scarab",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 53,
+    "id": 403,
+    "name": "Dwarf Star",
+    "quality": "unique",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "itemLvl": 53,
+    "id": 404,
+    "name": "Raven Frost",
+    "quality": "unique",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "itemLvl": 73,
+    "id": 405,
+    "name": "Highlord's Wrath",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 55,
+    "id": 406,
+    "name": "Saracen's Chance",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "id": 407,
+    "name": "Class Specific",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 408,
+    "name": "Arreat's Face",
+    "quality": "unique",
+    "type": "baa"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 409,
+    "name": "Homunculus",
+    "quality": "unique",
+    "type": "nea"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 410,
+    "name": "Titan's Revenge",
+    "quality": "unique",
+    "type": "ama"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 411,
+    "name": "Lycander's Aim",
+    "quality": "unique",
+    "type": "am7"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 412,
+    "name": "Lycander's Flank",
+    "quality": "unique",
+    "type": "am9"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 413,
+    "name": "The Oculus",
+    "quality": "unique",
+    "type": "oba"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 414,
+    "name": "Herald of Zakarum",
+    "quality": "unique",
+    "type": "pa9"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 415,
+    "name": "Cutthroat1",
+    "quality": "unique",
+    "type": "9tw"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 416,
+    "name": "Jalal's Mane",
+    "quality": "unique",
+    "type": "dra"
+  },
+  {
+    "found": false,
+    "itemLvl": 65,
+    "id": 417,
+    "name": "The Scalper",
+    "quality": "unique",
+    "type": "9ta"
+  },
+  {
+    "found": false,
+    "itemLvl": 69,
+    "id": 418,
+    "name": "Bloodmoon",
+    "quality": "unique",
+    "type": "7sb"
+  },
+  {
+    "found": false,
+    "itemLvl": 73,
+    "id": 419,
+    "name": "Djinnslayer",
+    "quality": "unique",
+    "type": "7sm"
+  },
+  {
+    "found": false,
+    "itemLvl": 52,
+    "id": 420,
+    "name": "Deathbit",
+    "quality": "unique",
+    "type": "9tk"
+  },
+  {
+    "found": false,
+    "itemLvl": 83,
+    "id": 421,
+    "name": "Warshrike",
+    "quality": "unique",
+    "type": "7bk"
+  },
+  {
+    "found": false,
+    "itemLvl": 79,
+    "id": 422,
+    "name": "Gutsiphon",
+    "quality": "unique",
+    "type": "6rx"
+  },
+  {
+    "found": false,
+    "itemLvl": 75,
+    "id": 423,
+    "name": "Razoredge",
+    "quality": "unique",
+    "type": "7ha"
+  },
+  {
+    "found": false,
+    "id": 424,
+    "name": "Gore Ripper",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 71,
+    "id": 425,
+    "name": "Demonlimb",
+    "quality": "unique",
+    "type": "7sp"
+  },
+  {
+    "found": false,
+    "itemLvl": 70,
+    "id": 426,
+    "name": "Steelshade",
+    "quality": "unique",
+    "type": "ulm"
+  },
+  {
+    "found": false,
+    "itemLvl": 86,
+    "id": 427,
+    "name": "Tomb Reaver",
+    "quality": "unique",
+    "type": "7pa"
+  },
+  {
+    "found": false,
+    "itemLvl": 74,
+    "id": 428,
+    "name": "Deaths's Web",
+    "quality": "unique",
+    "type": "7gw"
+  },
+  {
+    "found": false,
+    "itemLvl": 77,
+    "id": 429,
+    "name": "Nature's Peace",
+    "quality": "unique",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "itemLvl": 87,
+    "id": 430,
+    "name": "Azurewrath",
+    "quality": "unique",
+    "type": "7cr"
+  },
+  {
+    "found": false,
+    "itemLvl": 73,
+    "id": 431,
+    "name": "Seraph's Hymn",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "id": 432,
+    "name": "Zakarum's Salvation",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 76,
+    "id": 433,
+    "name": "Fleshripper",
+    "quality": "unique",
+    "type": "7kr"
+  },
+  {
+    "found": false,
+    "id": 434,
+    "name": "Odium",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 72,
+    "id": 435,
+    "name": "Horizon's Tornado",
+    "quality": "unique",
+    "type": "7fl"
+  },
+  {
+    "found": false,
+    "itemLvl": 76,
+    "id": 436,
+    "name": "Stone Crusher",
+    "quality": "unique",
+    "type": "7wh"
+  },
+  {
+    "found": false,
+    "itemLvl": 74,
+    "id": 437,
+    "name": "Jadetalon",
+    "quality": "unique",
+    "type": "7wb"
+  },
+  {
+    "found": false,
+    "itemLvl": 79,
+    "id": 438,
+    "name": "Shadowdancer",
+    "quality": "unique",
+    "type": "uhb"
+  },
+  {
+    "found": false,
+    "itemLvl": 71,
+    "id": 439,
+    "name": "Cerebus",
+    "quality": "unique",
+    "type": "drb"
+  },
+  {
+    "found": false,
+    "itemLvl": 87,
+    "id": 440,
+    "name": "Tyrael's Might",
+    "quality": "unique",
+    "type": "uar"
+  },
+  {
+    "found": false,
+    "itemLvl": 82,
+    "id": 441,
+    "name": "Souldrain",
+    "quality": "unique",
+    "type": "umg"
+  },
+  {
+    "found": false,
+    "itemLvl": 80,
+    "id": 442,
+    "name": "Runemaster",
+    "quality": "unique",
+    "type": "72a"
+  },
+  {
+    "found": false,
+    "itemLvl": 78,
+    "id": 443,
+    "name": "Deathcleaver",
+    "quality": "unique",
+    "type": "7wa"
+  },
+  {
+    "found": false,
+    "itemLvl": 83,
+    "id": 444,
+    "name": "Executioner's Justice",
+    "quality": "unique",
+    "type": "7gi"
+  },
+  {
+    "found": false,
+    "itemLvl": 72,
+    "id": 445,
+    "name": "Stoneraven",
+    "quality": "unique",
+    "type": "amd"
+  },
+  {
+    "found": false,
+    "itemLvl": 73,
+    "id": 446,
+    "name": "Leviathan",
+    "quality": "unique",
+    "type": "uld"
+  },
+  {
+    "found": false,
+    "id": 447,
+    "name": "Larzuk's Champion",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 84,
+    "id": 448,
+    "name": "Wisp",
+    "quality": "unique",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "itemLvl": 78,
+    "id": 449,
+    "name": "Gargoyle's Bite",
+    "quality": "unique",
+    "type": "7ts"
+  },
+  {
+    "found": false,
+    "itemLvl": 76,
+    "id": 450,
+    "name": "Lacerator",
+    "quality": "unique",
+    "type": "7b8"
+  },
+  {
+    "found": false,
+    "itemLvl": 86,
+    "id": 451,
+    "name": "Mang Song's Lesson",
+    "quality": "unique",
+    "type": "6ws"
+  },
+  {
+    "found": false,
+    "itemLvl": 79,
+    "id": 452,
+    "name": "Viperfork",
+    "quality": "unique",
+    "type": "7br"
+  },
+  {
+    "found": false,
+    "itemLvl": 82,
+    "id": 453,
+    "name": "Ethereal Edge",
+    "quality": "unique",
+    "type": "7ba"
+  },
+  {
+    "found": false,
+    "itemLvl": 69,
+    "id": 454,
+    "name": "Demonhorn's Edge",
+    "quality": "unique",
+    "type": "bad"
+  },
+  {
+    "found": false,
+    "itemLvl": 83,
+    "id": 455,
+    "name": "The Reaper's Toll",
+    "quality": "unique",
+    "type": "7s8"
+  },
+  {
+    "found": false,
+    "itemLvl": 75,
+    "id": 456,
+    "name": "Spiritkeeper",
+    "quality": "unique",
+    "type": "drd"
+  },
+  {
+    "found": false,
+    "itemLvl": 84,
+    "id": 457,
+    "name": "Hellrack",
+    "quality": "unique",
+    "type": "6hx"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 458,
+    "name": "Alma Negra",
+    "quality": "unique",
+    "type": "pac"
+  },
+  {
+    "found": false,
+    "itemLvl": 72,
+    "id": 459,
+    "name": "Darkforge Spawn",
+    "quality": "unique",
+    "type": "nef"
+  },
+  {
+    "found": false,
+    "itemLvl": 73,
+    "id": 460,
+    "name": "Widowmaker",
+    "quality": "unique",
+    "type": "6sw"
+  },
+  {
+    "found": false,
+    "itemLvl": 79,
+    "id": 461,
+    "name": "Bloodraven's Charge",
+    "quality": "unique",
+    "type": "amb"
+  },
+  {
+    "found": false,
+    "itemLvl": 70,
+    "id": 462,
+    "name": "Ghostflame",
+    "quality": "unique",
+    "type": "7bl"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 463,
+    "name": "Shadowkiller",
+    "quality": "unique",
+    "type": "7cs"
+  },
+  {
+    "found": false,
+    "itemLvl": 78,
+    "id": 464,
+    "name": "Gimmershred",
+    "quality": "unique",
+    "type": "7ta"
+  },
+  {
+    "found": false,
+    "itemLvl": 84,
+    "id": 465,
+    "name": "Griffon's Eye",
+    "quality": "unique",
+    "type": "ci3"
+  },
+  {
+    "found": false,
+    "itemLvl": 76,
+    "id": 466,
+    "name": "Windhammer",
+    "quality": "unique",
+    "type": "7m7"
+  },
+  {
+    "found": false,
+    "itemLvl": 77,
+    "id": 467,
+    "name": "Thunderstroke",
+    "quality": "unique",
+    "type": "amf"
+  },
+  {
+    "found": false,
+    "id": 468,
+    "name": "Giantmaimer",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 76,
+    "id": 469,
+    "name": "Demon's Arch",
+    "quality": "unique",
+    "type": "7s7"
+  },
+  {
+    "found": false,
+    "itemLvl": 80,
+    "id": 470,
+    "name": "Boneflame",
+    "quality": "unique",
+    "type": "nee"
+  },
+  {
+    "found": false,
+    "itemLvl": 77,
+    "id": 471,
+    "name": "Steelpillar",
+    "quality": "unique",
+    "type": "7p7"
+  },
+  {
+    "found": false,
+    "itemLvl": 75,
+    "id": 472,
+    "name": "Nightwing's Veil",
+    "quality": "unique",
+    "type": "uhm"
+  },
+  {
+    "found": false,
+    "itemLvl": 86,
+    "id": 473,
+    "name": "Crown of Ages",
+    "quality": "unique",
+    "type": "urn"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 474,
+    "name": "Andariel's Visage",
+    "quality": "unique",
+    "type": "usk"
+  },
+  {
+    "found": false,
+    "id": 475,
+    "name": "Darkfear",
+    "quality": "unique",
+    "type": "ulm"
+  },
+  {
+    "found": false,
+    "itemLvl": 84,
+    "id": 476,
+    "name": "Dragonscale",
+    "quality": "unique",
+    "type": "pae"
+  },
+  {
+    "found": false,
+    "itemLvl": 74,
+    "id": 477,
+    "name": "Steel Carapice",
+    "quality": "unique",
+    "type": "uul"
+  },
+  {
+    "found": false,
+    "itemLvl": 84,
+    "id": 478,
+    "name": "Medusa's Gaze",
+    "quality": "unique",
+    "type": "uow"
+  },
+  {
+    "found": false,
+    "itemLvl": 82,
+    "id": 479,
+    "name": "Ravenlore",
+    "quality": "unique",
+    "type": "dre"
+  },
+  {
+    "found": false,
+    "itemLvl": 84,
+    "id": 480,
+    "name": "Boneshade",
+    "quality": "unique",
+    "type": "7bw"
+  },
+  {
+    "found": false,
+    "id": 481,
+    "name": "Nethercrow",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 79,
+    "id": 482,
+    "name": "Flamebellow",
+    "quality": "unique",
+    "type": "7gs"
+  },
+  {
+    "found": false,
+    "itemLvl": 81,
+    "id": 483,
+    "name": "Fathom",
+    "quality": "unique",
+    "type": "obf"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 484,
+    "name": "Wolfhowl",
+    "quality": "unique",
+    "type": "bac"
+  },
+  {
+    "found": false,
+    "itemLvl": 76,
+    "id": 485,
+    "name": "Spirit Ward",
+    "quality": "unique",
+    "type": "uts"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 486,
+    "name": "Kira's Guardian",
+    "quality": "unique",
+    "type": "ci2"
+  },
+  {
+    "found": false,
+    "itemLvl": 83,
+    "id": 487,
+    "name": "Ormus' Robes",
+    "quality": "unique",
+    "type": "uui"
+  },
+  {
+    "found": false,
+    "itemLvl": 70,
+    "id": 488,
+    "name": "Gheed's Fortune",
+    "quality": "unique",
+    "type": "cm3"
+  },
+  {
+    "found": false,
+    "itemLvl": 86,
+    "id": 489,
+    "name": "Stormlash",
+    "quality": "unique",
+    "type": "7fl"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 490,
+    "name": "Halaberd's Reign",
+    "quality": "unique",
+    "type": "bae"
+  },
+  {
+    "found": false,
+    "id": 491,
+    "name": "Warriv's Warder",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 78,
+    "id": 492,
+    "name": "Spike Thorn",
+    "quality": "unique",
+    "type": "upk"
+  },
+  {
+    "found": false,
+    "itemLvl": 84,
+    "id": 493,
+    "name": "Dracul's Grasp",
+    "quality": "unique",
+    "type": "uvg"
+  },
+  {
+    "found": false,
+    "itemLvl": 78,
+    "id": 494,
+    "name": "Frostwind",
+    "quality": "unique",
+    "type": "7ls"
+  },
+  {
+    "found": false,
+    "itemLvl": 82,
+    "id": 495,
+    "name": "Templar's Might",
+    "quality": "unique",
+    "type": "uar"
+  },
+  {
+    "found": false,
+    "itemLvl": 80,
+    "id": 496,
+    "name": "Eschuta's temper",
+    "quality": "unique",
+    "type": "obc"
+  },
+  {
+    "found": false,
+    "itemLvl": 75,
+    "id": 497,
+    "name": "Firelizard's Talons",
+    "quality": "unique",
+    "type": "7lw"
+  },
+  {
+    "found": false,
+    "itemLvl": 72,
+    "id": 498,
+    "name": "Sandstorm Trek",
+    "quality": "unique",
+    "type": "uvb"
+  },
+  {
+    "found": false,
+    "itemLvl": 74,
+    "id": 499,
+    "name": "Marrowwalk",
+    "quality": "unique",
+    "type": "umb"
+  },
+  {
+    "found": false,
+    "itemLvl": 69,
+    "id": 500,
+    "name": "Heaven's Light",
+    "quality": "unique",
+    "type": "7sc"
+  },
+  {
+    "found": false,
+    "id": 501,
+    "name": "Merman's Speed",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 87,
+    "id": 502,
+    "name": "Arachnid Mesh",
+    "quality": "unique",
+    "type": "ulc"
+  },
+  {
+    "found": false,
+    "itemLvl": 68,
+    "id": 503,
+    "name": "Nosferatu's Coil",
+    "quality": "unique",
+    "type": "uvc"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 504,
+    "name": "Metalgrid",
+    "quality": "unique",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 71,
+    "id": 505,
+    "name": "Verdugo's Hearty Cord",
+    "quality": "unique",
+    "type": "umc"
+  },
+  {
+    "found": false,
+    "id": 506,
+    "name": "Sigurd's Staunch",
+    "quality": "unique"
+  },
+  {
+    "found": false,
+    "itemLvl": 68,
+    "id": 507,
+    "name": "Carrion Wind",
+    "quality": "unique",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "itemLvl": 73,
+    "id": 508,
+    "name": "Giantskull",
+    "quality": "unique",
+    "type": "uh9"
+  },
+  {
+    "found": false,
+    "itemLvl": 68,
+    "id": 509,
+    "name": "Ironward",
+    "quality": "unique",
+    "type": "7ws"
+  },
+  {
+    "found": false,
+    "itemLvl": 110,
+    "id": 510,
+    "name": "Annihilus",
+    "quality": "unique",
+    "type": "cm1"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 511,
+    "name": "Arioc's Needle",
+    "quality": "unique",
+    "type": "7sr"
+  },
+  {
+    "found": false,
+    "itemLvl": 71,
+    "id": 512,
+    "name": "Cranebeak",
+    "quality": "unique",
+    "type": "7mp"
+  },
+  {
+    "found": false,
+    "itemLvl": 76,
+    "id": 513,
+    "name": "Nord's Tenderizer",
+    "quality": "unique",
+    "type": "7cl"
+  },
+  {
+    "found": false,
+    "itemLvl": 77,
+    "id": 514,
+    "name": "Earthshifter",
+    "quality": "unique",
+    "type": "7gm"
+  },
+  {
+    "found": false,
+    "itemLvl": 84,
+    "id": 515,
+    "name": "Wraithflight",
+    "quality": "unique",
+    "type": "7gl"
+  },
+  {
+    "found": false,
+    "itemLvl": 72,
+    "id": 516,
+    "name": "Bonehew",
+    "quality": "unique",
+    "type": "7o7"
+  },
+  {
+    "found": false,
+    "itemLvl": 74,
+    "id": 517,
+    "name": "Ondal's Wisdom",
+    "quality": "unique",
+    "type": "6cs"
+  },
+  {
+    "found": false,
+    "itemLvl": 80,
+    "id": 518,
+    "name": "The Reedeemer",
+    "quality": "unique",
+    "type": "7sc"
+  },
+  {
+    "found": false,
+    "itemLvl": 83,
+    "id": 519,
+    "name": "Headhunter's Glory",
+    "quality": "unique",
+    "type": "ush"
+  },
+  {
+    "found": false,
+    "itemLvl": 78,
+    "id": 520,
+    "name": "Steelrend",
+    "quality": "unique",
+    "type": "uhg"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 521,
+    "name": "Rainbow Facet",
+    "quality": "unique",
+    "type": "jew"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 522,
+    "name": "Rainbow Facet",
+    "quality": "unique",
+    "type": "jew"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 523,
+    "name": "Rainbow Facet",
+    "quality": "unique",
+    "type": "jew"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 524,
+    "name": "Rainbow Facet",
+    "quality": "unique",
+    "type": "jew"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 525,
+    "name": "Rainbow Facet",
+    "quality": "unique",
+    "type": "jew"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 526,
+    "name": "Rainbow Facet",
+    "quality": "unique",
+    "type": "jew"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 527,
+    "name": "Rainbow Facet",
+    "quality": "unique",
+    "type": "jew"
+  },
+  {
+    "found": false,
+    "itemLvl": 85,
+    "id": 528,
+    "name": "Rainbow Facet",
+    "quality": "unique",
+    "type": "jew"
+  },
+  {
+    "found": false,
+    "itemLvl": 110,
+    "id": 529,
+    "name": "Hellfire Torch",
+    "quality": "unique",
+    "type": "cm2"
+  }
+]

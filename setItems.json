@@ -1,0 +1,1018 @@
+[
+  {
+    "found": false,
+    "itemLvl": 13,
+    "id": 0,
+    "name": "Civerb's Ward",
+    "quality": "set",
+    "type": "lrg"
+  },
+  {
+    "found": false,
+    "itemLvl": 13,
+    "id": 1,
+    "name": "Civerb's Icon",
+    "quality": "set",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 13,
+    "id": 2,
+    "name": "Civerb's Cudgel",
+    "quality": "set",
+    "type": "gsc"
+  },
+  {
+    "found": false,
+    "itemLvl": 4,
+    "id": 3,
+    "name": "Hsarus' Iron Heel",
+    "quality": "set",
+    "type": "mbt"
+  },
+  {
+    "found": false,
+    "itemLvl": 4,
+    "id": 4,
+    "name": "Hsarus' Iron Fist",
+    "quality": "set",
+    "type": "buc"
+  },
+  {
+    "found": false,
+    "itemLvl": 4,
+    "id": 5,
+    "name": "Hsarus' Iron Stay",
+    "quality": "set",
+    "type": "mbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 6,
+    "id": 6,
+    "name": "Cleglaw's Tooth",
+    "quality": "set",
+    "type": "lsd"
+  },
+  {
+    "found": false,
+    "itemLvl": 6,
+    "id": 7,
+    "name": "Cleglaw's Claw",
+    "quality": "set",
+    "type": "sml"
+  },
+  {
+    "found": false,
+    "itemLvl": 6,
+    "id": 8,
+    "name": "Cleglaw's Pincers",
+    "quality": "set",
+    "type": "mgl"
+  },
+  {
+    "found": false,
+    "itemLvl": 21,
+    "id": 9,
+    "name": "Iratha's Collar",
+    "quality": "set",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 21,
+    "id": 10,
+    "name": "Iratha's Cuff",
+    "quality": "set",
+    "type": "tgl"
+  },
+  {
+    "found": false,
+    "itemLvl": 21,
+    "id": 11,
+    "name": "Iratha's Coil",
+    "quality": "set",
+    "type": "crn"
+  },
+  {
+    "found": false,
+    "itemLvl": 21,
+    "id": 12,
+    "name": "Iratha's Cord",
+    "quality": "set",
+    "type": "tbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 11,
+    "id": 13,
+    "name": "Isenhart's Lightbrand",
+    "quality": "set",
+    "type": "bsd"
+  },
+  {
+    "found": false,
+    "itemLvl": 11,
+    "id": 14,
+    "name": "Isenhart's Parry",
+    "quality": "set",
+    "type": "gts"
+  },
+  {
+    "found": false,
+    "itemLvl": 11,
+    "id": 15,
+    "name": "Isenhart's Case",
+    "quality": "set",
+    "type": "brs"
+  },
+  {
+    "found": false,
+    "itemLvl": 11,
+    "id": 16,
+    "name": "Isenhart's Horns",
+    "quality": "set",
+    "type": "fhl"
+  },
+  {
+    "found": false,
+    "itemLvl": 19,
+    "id": 17,
+    "name": "Vidala's Barb",
+    "quality": "set",
+    "type": "lbb"
+  },
+  {
+    "found": false,
+    "itemLvl": 19,
+    "id": 18,
+    "name": "Vidala's Fetlock",
+    "quality": "set",
+    "type": "tbt"
+  },
+  {
+    "found": false,
+    "itemLvl": 19,
+    "id": 19,
+    "name": "Vidala's Ambush",
+    "quality": "set",
+    "type": "lea"
+  },
+  {
+    "found": false,
+    "itemLvl": 19,
+    "id": 20,
+    "name": "Vidala's Snare",
+    "quality": "set",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 23,
+    "id": 21,
+    "name": "Milabrega's Orb",
+    "quality": "set",
+    "type": "kit"
+  },
+  {
+    "found": false,
+    "itemLvl": 23,
+    "id": 22,
+    "name": "Milabrega's Rod",
+    "quality": "set",
+    "type": "wsp"
+  },
+  {
+    "found": false,
+    "itemLvl": 23,
+    "id": 23,
+    "name": "Milabrega's Diadem",
+    "quality": "set",
+    "type": "crn"
+  },
+  {
+    "found": false,
+    "itemLvl": 23,
+    "id": 24,
+    "name": "Milabrega's Robe",
+    "quality": "set",
+    "type": "aar"
+  },
+  {
+    "found": false,
+    "itemLvl": 15,
+    "id": 25,
+    "name": "Cathan's Rule",
+    "quality": "set",
+    "type": "bst"
+  },
+  {
+    "found": false,
+    "itemLvl": 15,
+    "id": 26,
+    "name": "Cathan's Mesh",
+    "quality": "set",
+    "type": "chn"
+  },
+  {
+    "found": false,
+    "itemLvl": 15,
+    "id": 27,
+    "name": "Cathan's Visage",
+    "quality": "set",
+    "type": "msk"
+  },
+  {
+    "found": false,
+    "itemLvl": 15,
+    "id": 28,
+    "name": "Cathan's Sigil",
+    "quality": "set",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 15,
+    "id": 29,
+    "name": "Cathan's Seal",
+    "quality": "set",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "itemLvl": 27,
+    "id": 30,
+    "name": "Tancred's Crowbill",
+    "quality": "set",
+    "type": "mpi"
+  },
+  {
+    "found": false,
+    "itemLvl": 27,
+    "id": 31,
+    "name": "Tancred's Spine",
+    "quality": "set",
+    "type": "ful"
+  },
+  {
+    "found": false,
+    "itemLvl": 27,
+    "id": 32,
+    "name": "Tancred's Hobnails",
+    "quality": "set",
+    "type": "lbt"
+  },
+  {
+    "found": false,
+    "itemLvl": 27,
+    "id": 33,
+    "name": "Tancred's Weird",
+    "quality": "set",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 27,
+    "id": 34,
+    "name": "Tancred's Skull",
+    "quality": "set",
+    "type": "bhm"
+  },
+  {
+    "found": false,
+    "itemLvl": 9,
+    "id": 35,
+    "name": "Sigon's Gage",
+    "quality": "set",
+    "type": "hgl"
+  },
+  {
+    "found": false,
+    "itemLvl": 9,
+    "id": 36,
+    "name": "Sigon's Visor",
+    "quality": "set",
+    "type": "ghm"
+  },
+  {
+    "found": false,
+    "itemLvl": 9,
+    "id": 37,
+    "name": "Sigon's Shelter",
+    "quality": "set",
+    "type": "gth"
+  },
+  {
+    "found": false,
+    "itemLvl": 9,
+    "id": 38,
+    "name": "Sigon's Sabot",
+    "quality": "set",
+    "type": "hbt"
+  },
+  {
+    "found": false,
+    "itemLvl": 9,
+    "id": 39,
+    "name": "Sigon's Wrap",
+    "quality": "set",
+    "type": "hbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 9,
+    "id": 40,
+    "name": "Sigon's Guard",
+    "quality": "set",
+    "type": "tow"
+  },
+  {
+    "found": false,
+    "itemLvl": 7,
+    "id": 41,
+    "name": "Infernal Cranium",
+    "quality": "set",
+    "type": "cap"
+  },
+  {
+    "found": false,
+    "itemLvl": 7,
+    "id": 42,
+    "name": "Infernal Torch",
+    "quality": "set",
+    "type": "gwn"
+  },
+  {
+    "found": false,
+    "itemLvl": 7,
+    "id": 43,
+    "name": "Infernal Sign",
+    "quality": "set",
+    "type": "tbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 5,
+    "id": 44,
+    "name": "Berserker's Headgear",
+    "quality": "set",
+    "type": "hlm"
+  },
+  {
+    "found": false,
+    "itemLvl": 5,
+    "id": 45,
+    "name": "Berserker's Hauberk",
+    "quality": "set",
+    "type": "spl"
+  },
+  {
+    "found": false,
+    "itemLvl": 5,
+    "id": 46,
+    "name": "Berserker's Hatchet",
+    "quality": "set",
+    "type": "2ax"
+  },
+  {
+    "found": false,
+    "itemLvl": 8,
+    "id": 47,
+    "name": "Death's Hand",
+    "quality": "set",
+    "type": "lgl"
+  },
+  {
+    "found": false,
+    "itemLvl": 8,
+    "id": 48,
+    "name": "Death's Guard",
+    "quality": "set",
+    "type": "lbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 8,
+    "id": 49,
+    "name": "Death's Touch",
+    "quality": "set",
+    "type": "wsd"
+  },
+  {
+    "found": false,
+    "itemLvl": 17,
+    "id": 50,
+    "name": "Angelic Sickle",
+    "quality": "set",
+    "type": "sbr"
+  },
+  {
+    "found": false,
+    "itemLvl": 17,
+    "id": 51,
+    "name": "Angelic Mantle",
+    "quality": "set",
+    "type": "rng"
+  },
+  {
+    "found": false,
+    "itemLvl": 17,
+    "id": 52,
+    "name": "Angelic Halo",
+    "quality": "set",
+    "type": "rin"
+  },
+  {
+    "found": false,
+    "itemLvl": 17,
+    "id": 53,
+    "name": "Angelic Wings",
+    "quality": "set",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 3,
+    "id": 54,
+    "name": "Arctic Horn",
+    "quality": "set",
+    "type": "swb"
+  },
+  {
+    "found": false,
+    "itemLvl": 3,
+    "id": 55,
+    "name": "Arctic Furs",
+    "quality": "set",
+    "type": "qui"
+  },
+  {
+    "found": false,
+    "itemLvl": 3,
+    "id": 56,
+    "name": "Arctic Binding",
+    "quality": "set",
+    "type": "vbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 3,
+    "id": 57,
+    "name": "Arctic Mitts",
+    "quality": "set",
+    "type": "tgl"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 58,
+    "name": "Arcanna's Sign",
+    "quality": "set",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 59,
+    "name": "Arcanna's Deathwand",
+    "quality": "set",
+    "type": "wst"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 60,
+    "name": "Arcanna's Head",
+    "quality": "set",
+    "type": "skp"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 61,
+    "name": "Arcanna's Flesh",
+    "quality": "set",
+    "type": "ltp"
+  },
+  {
+    "found": false,
+    "itemLvl": 22,
+    "id": 62,
+    "name": "Natalya's Totem",
+    "quality": "set",
+    "type": "xh9"
+  },
+  {
+    "found": false,
+    "itemLvl": 22,
+    "id": 63,
+    "name": "Natalya's Mark",
+    "quality": "set",
+    "type": "7qr"
+  },
+  {
+    "found": false,
+    "itemLvl": 22,
+    "id": 64,
+    "name": "Natalya's Shadow",
+    "quality": "set",
+    "type": "ucl"
+  },
+  {
+    "found": false,
+    "itemLvl": 22,
+    "id": 65,
+    "name": "Natalya's Soul",
+    "quality": "set",
+    "type": "xmb"
+  },
+  {
+    "found": false,
+    "itemLvl": 29,
+    "id": 66,
+    "name": "Aldur's Stony Gaze",
+    "quality": "set",
+    "type": "dr8"
+  },
+  {
+    "found": false,
+    "itemLvl": 29,
+    "id": 67,
+    "name": "Aldur's Deception",
+    "quality": "set",
+    "type": "uul"
+  },
+  {
+    "found": false,
+    "itemLvl": 29,
+    "id": 68,
+    "name": "Aldur's Gauntlet",
+    "quality": "set",
+    "type": "9mt"
+  },
+  {
+    "found": false,
+    "itemLvl": 29,
+    "id": 69,
+    "name": "Aldur's Advance",
+    "quality": "set",
+    "type": "xtb"
+  },
+  {
+    "found": false,
+    "itemLvl": 37,
+    "id": 70,
+    "name": "Immortal King's Will",
+    "quality": "set",
+    "type": "ba5"
+  },
+  {
+    "found": false,
+    "itemLvl": 37,
+    "id": 71,
+    "name": "Immortal King's Soul Cage ",
+    "quality": "set",
+    "type": "uar"
+  },
+  {
+    "found": false,
+    "itemLvl": 37,
+    "id": 72,
+    "name": "Immortal King's Detail",
+    "quality": "set",
+    "type": "zhb"
+  },
+  {
+    "found": false,
+    "itemLvl": 37,
+    "id": 73,
+    "name": "Immortal King's Forge",
+    "quality": "set",
+    "type": "xhg"
+  },
+  {
+    "found": false,
+    "itemLvl": 37,
+    "id": 74,
+    "name": "Immortal King's Pillar",
+    "quality": "set",
+    "type": "xhb"
+  },
+  {
+    "found": false,
+    "itemLvl": 37,
+    "id": 75,
+    "name": "Immortal King's Stone Crusher",
+    "quality": "set",
+    "type": "7m7"
+  },
+  {
+    "found": false,
+    "itemLvl": 26,
+    "id": 76,
+    "name": "Tal Rasha's Fire-Spun Cloth",
+    "quality": "set",
+    "type": "zmb"
+  },
+  {
+    "found": false,
+    "itemLvl": 26,
+    "id": 77,
+    "name": "Tal Rasha's Adjudication",
+    "quality": "set",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 26,
+    "id": 78,
+    "name": "Tal Rasha's Lidless Eye",
+    "quality": "set",
+    "type": "oba"
+  },
+  {
+    "found": false,
+    "itemLvl": 26,
+    "id": 79,
+    "name": "Tal Rasha's Howling Wind",
+    "quality": "set",
+    "type": "uth"
+  },
+  {
+    "found": false,
+    "itemLvl": 26,
+    "id": 80,
+    "name": "Tal Rasha's Horadric Crest",
+    "quality": "set",
+    "type": "xsk"
+  },
+  {
+    "found": false,
+    "itemLvl": 44,
+    "id": 81,
+    "name": "Griswold's Valor",
+    "quality": "set",
+    "type": "urn"
+  },
+  {
+    "found": false,
+    "itemLvl": 44,
+    "id": 82,
+    "name": "Griswold's Heart",
+    "quality": "set",
+    "type": "xar"
+  },
+  {
+    "found": false,
+    "itemLvl": 44,
+    "id": 83,
+    "name": "Griswolds's Redemption",
+    "quality": "set",
+    "type": "7ws"
+  },
+  {
+    "found": false,
+    "itemLvl": 44,
+    "id": 84,
+    "name": "Griswold's Honor",
+    "quality": "set",
+    "type": "paf"
+  },
+  {
+    "found": false,
+    "itemLvl": 32,
+    "id": 85,
+    "name": "Trang-Oul's Guise",
+    "quality": "set",
+    "type": "uh9"
+  },
+  {
+    "found": false,
+    "itemLvl": 32,
+    "id": 86,
+    "name": "Trang-Oul's Scales",
+    "quality": "set",
+    "type": "xul"
+  },
+  {
+    "found": false,
+    "itemLvl": 32,
+    "id": 87,
+    "name": "Trang-Oul's Wing",
+    "quality": "set",
+    "type": "ne9"
+  },
+  {
+    "found": false,
+    "itemLvl": 32,
+    "id": 88,
+    "name": "Trang-Oul's Claws",
+    "quality": "set",
+    "type": "xmg"
+  },
+  {
+    "found": false,
+    "itemLvl": 32,
+    "id": 89,
+    "name": "Trang-Oul's Girth",
+    "quality": "set",
+    "type": "utc"
+  },
+  {
+    "found": false,
+    "itemLvl": 21,
+    "id": 90,
+    "name": "M'avina's True Sight",
+    "quality": "set",
+    "type": "ci3"
+  },
+  {
+    "found": false,
+    "itemLvl": 21,
+    "id": 91,
+    "name": "M'avina's Embrace",
+    "quality": "set",
+    "type": "uld"
+  },
+  {
+    "found": false,
+    "itemLvl": 21,
+    "id": 92,
+    "name": "M'avina's Icy Clutch",
+    "quality": "set",
+    "type": "xtg"
+  },
+  {
+    "found": false,
+    "itemLvl": 21,
+    "id": 93,
+    "name": "M'avina's Tenet",
+    "quality": "set",
+    "type": "zvb"
+  },
+  {
+    "found": false,
+    "itemLvl": 21,
+    "id": 94,
+    "name": "M'avina's Caster",
+    "quality": "set",
+    "type": "amc"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 95,
+    "name": "Telling of Beads",
+    "quality": "set",
+    "type": "amu"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 96,
+    "name": "Laying of Hands",
+    "quality": "set",
+    "type": "ulg"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 97,
+    "name": "Rite of Passage",
+    "quality": "set",
+    "type": "xlb"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 98,
+    "name": "Spiritual Custodian",
+    "quality": "set",
+    "type": "uui"
+  },
+  {
+    "found": false,
+    "itemLvl": 39,
+    "id": 99,
+    "name": "Credendum",
+    "quality": "set",
+    "type": "umc"
+  },
+  {
+    "found": false,
+    "itemLvl": 55,
+    "id": 100,
+    "name": "Dangoon's Teaching",
+    "quality": "set",
+    "type": "7ma"
+  },
+  {
+    "found": false,
+    "itemLvl": 55,
+    "id": 101,
+    "name": "Heaven's Taebaek",
+    "quality": "set",
+    "type": "uts"
+  },
+  {
+    "found": false,
+    "itemLvl": 55,
+    "id": 102,
+    "name": "Haemosu's Adament",
+    "quality": "set",
+    "type": "xrs"
+  },
+  {
+    "found": false,
+    "itemLvl": 55,
+    "id": 103,
+    "name": "Ondal's Almighty",
+    "quality": "set",
+    "type": "uhm"
+  },
+  {
+    "found": false,
+    "itemLvl": 41,
+    "id": 104,
+    "name": "Guillaume's Face",
+    "quality": "set",
+    "type": "xhm"
+  },
+  {
+    "found": false,
+    "itemLvl": 41,
+    "id": 105,
+    "name": "Wilhelm's Pride",
+    "quality": "set",
+    "type": "ztb"
+  },
+  {
+    "found": false,
+    "itemLvl": 41,
+    "id": 106,
+    "name": "Magnus' Skin",
+    "quality": "set",
+    "type": "xvg"
+  },
+  {
+    "found": false,
+    "itemLvl": 41,
+    "id": 107,
+    "name": "Wihtstan's Guard",
+    "quality": "set",
+    "type": "xml"
+  },
+  {
+    "found": false,
+    "itemLvl": 28,
+    "id": 108,
+    "name": "Hwanin's Splendor",
+    "quality": "set",
+    "type": "xrn"
+  },
+  {
+    "found": false,
+    "itemLvl": 28,
+    "id": 109,
+    "name": "Hwanin's Refuge",
+    "quality": "set",
+    "type": "xcl"
+  },
+  {
+    "found": false,
+    "itemLvl": 28,
+    "id": 110,
+    "name": "Hwanin's Seal",
+    "quality": "set",
+    "type": "mbl"
+  },
+  {
+    "found": false,
+    "itemLvl": 28,
+    "id": 111,
+    "name": "Hwanin's Justice",
+    "quality": "set",
+    "type": "9vo"
+  },
+  {
+    "found": false,
+    "itemLvl": 34,
+    "id": 112,
+    "name": "Sazabi's Cobalt Redeemer",
+    "quality": "set",
+    "type": "7ls"
+  },
+  {
+    "found": false,
+    "itemLvl": 34,
+    "id": 113,
+    "name": "Sazabi's Ghost Liberator",
+    "quality": "set",
+    "type": "upl"
+  },
+  {
+    "found": false,
+    "itemLvl": 34,
+    "id": 114,
+    "name": "Sazabi's Mental Sheath",
+    "quality": "set",
+    "type": "xhl"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 115,
+    "name": "Bul-Kathos' Sacred Charge",
+    "quality": "set",
+    "type": "7gd"
+  },
+  {
+    "found": false,
+    "itemLvl": 50,
+    "id": 116,
+    "name": "Bul-Kathos' Tribal Guardian",
+    "quality": "set",
+    "type": "7wd"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 117,
+    "name": "Cow King's Horns",
+    "quality": "set",
+    "type": "xap"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 118,
+    "name": "Cow King's Hide",
+    "quality": "set",
+    "type": "stu"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 119,
+    "name": "Cow King's Hoofs",
+    "quality": "set",
+    "type": "vbt"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 120,
+    "name": "Naj's Puzzler",
+    "quality": "set",
+    "type": "6cs"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 121,
+    "name": "Naj's Light Plate",
+    "quality": "set",
+    "type": "ult"
+  },
+  {
+    "found": false,
+    "itemLvl": 43,
+    "id": 122,
+    "name": "Naj's Circlet",
+    "quality": "set",
+    "type": "ci0"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 123,
+    "name": "McAuley's Paragon",
+    "quality": "set",
+    "type": "cap"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 124,
+    "name": "McAuley's Riprap",
+    "quality": "set",
+    "type": "vbt"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 125,
+    "name": "McAuley's Taboo",
+    "quality": "set",
+    "type": "vgl"
+  },
+  {
+    "found": false,
+    "itemLvl": 20,
+    "id": 126,
+    "name": "McAuley's Superstition",
+    "quality": "set",
+    "type": "bwn"
+  }
+]
