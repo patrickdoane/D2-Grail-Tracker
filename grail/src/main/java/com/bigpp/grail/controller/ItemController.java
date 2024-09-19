@@ -16,6 +16,7 @@ public class ItemController {
     @Autowired
     private ItemService itemService;
 
+    @CrossOrigin
     @GetMapping
     public List<Item> getAllItems() {
         return itemService.getAllItems();
