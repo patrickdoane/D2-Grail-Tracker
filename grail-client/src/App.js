@@ -10,6 +10,10 @@ function App() {
           Holy Grail Tracker for Diablo II: Resurrected
         </p>
       </header>
+      <div className="search-bar">
+        <input type="text" className="search-bar-input"></input>
+        <button className="search-bar-input-button">search</button>
+      </div>
     </div>
   );
 }
