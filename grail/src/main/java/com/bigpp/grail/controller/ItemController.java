@@ -26,6 +26,25 @@ public class ItemController {
     public List<Item> getFoundItems(@PathVariable boolean found) {
     	return itemService.findByFound(found);
     }
+    
+    @CrossOrigin
+    @GetMapping("/uniques")
+    public List<Item> getUniqueItems() {
+    	return itemService.findByQuality("unique");
+    }
+
+    @CrossOrigin
+    @GetMapping("/sets")
+    public List<Item> getSetItems() {
+    	return itemService.findByQuality("set");
+    }
+
+    @CrossOrigin
+    @GetMapping("/other")
+    public List<Item> getOtherItems() {
+    	return itemService.findByQuality("other");
+    }
+    
     @PostMapping
     public Item addItem(@RequestBody Item item) {
         return itemService.addItem(item);

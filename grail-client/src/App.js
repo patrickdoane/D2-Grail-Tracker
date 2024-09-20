@@ -12,7 +12,22 @@ const queryClient = new QueryClient();
 
 function App() {
   const [queryMode, setQueryMode] = useState('default');
-  const [count, setCount] = useState(0);
+
+  const handleStatsClick = () => {
+    setQueryMode('default');
+  }
+
+  const handleUniquesClick = () => {
+    setQueryMode('uniques');
+  }
+
+  const handleSetsClick = () => {
+    setQueryMode('sets');
+  }
+
+  const handleOtherClick = () => {
+    setQueryMode('other');
+  }
 
   return (
     <QueryClientProvider client={queryClient}>
@@ -28,18 +43,12 @@ function App() {
           <button className="search-bar-input-button">search</button>
         </div>
         <div className="nav-bar">
-          <button className="nav-bar-stats" onClick={() => {
-            setQueryMode('default');
-            setCount(count + 1)
-          }}>stats</button>
-          <button className="nav-bar-uniques" onClick={() => {
-            setQueryMode('unique')
-            setCount(count + 1)
-          }}>uniques</button>
-          <button className="nav-bar-sets">sets</button>
-          <button className="nav-bar-other">other</button>
+          <button className="nav-bar-stats" onClick={handleStatsClick}>stats</button>
+          <button className="nav-bar-uniques" onClick={handleUniquesClick}>uniques</button>
+          <button className="nav-bar-sets" onClick={handleSetsClick}>sets</button>
+          <button className="nav-bar-other" onClick={handleOtherClick}>other</button>
         </div>
-        <Content queryMode={queryMode} key={count}/>
+        <Content queryMode={queryMode} />
       </div>
     </QueryClientProvider>
   );

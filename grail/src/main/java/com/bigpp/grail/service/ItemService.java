@@ -25,6 +25,10 @@ public class ItemService {
     public List<Item> findByFound(boolean found) {
     	return itemRepository.findByFound(found);
     }
+    
+    public List<Item> findByQuality(String quality) {
+    	return itemRepository.findByQuality(quality);
+    }
 
     public void updateItem(Long id, Item item) {
     	item.setId(id);
