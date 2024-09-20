@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import {
   QueryClient,
   QueryClientProvider
@@ -5,11 +6,14 @@ import {
 
 import logo from './d2rlogo2.png';
 import './App.css';
-import QueryArea from './components/QueryArea';
+import Content from './components/Content';
 
 const queryClient = new QueryClient();
 
 function App() {
+  const [queryMode, setQueryMode] = useState('default');
+  const [count, setCount] = useState(0);
+
   return (
     <QueryClientProvider client={queryClient}>
       <div className="App">
@@ -24,14 +28,18 @@ function App() {
           <button className="search-bar-input-button">search</button>
         </div>
         <div className="nav-bar">
-          <button className="nav-bar-stats">stats</button>
-          <button className="nav-bar-uniques">uniques</button>
+          <button className="nav-bar-stats" onClick={() => {
+            setQueryMode('default');
+            setCount(count + 1)
+          }}>stats</button>
+          <button className="nav-bar-uniques" onClick={() => {
+            setQueryMode('unique')
+            setCount(count + 1)
+          }}>uniques</button>
           <button className="nav-bar-sets">sets</button>
           <button className="nav-bar-other">other</button>
         </div>
-        <div className="App-content">
-          <QueryArea />
-        </div>
+        <Content queryMode={queryMode} key={count}/>
       </div>
     </QueryClientProvider>
   );

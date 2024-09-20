@@ -1,5 +1,7 @@
 import { useQuery } from '@tanstack/react-query';
 
+// this performs a GET request on /api/items
+// TODO: split QueryArea based on query properties
 function QueryArea() {
   const { isPending, error, data } = useQuery({
     queryKey: ['items'],
