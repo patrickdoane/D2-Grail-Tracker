@@ -1,5 +1,7 @@
 import { useQuery } from '@tanstack/react-query';
 
+import QueryItem from './QueryItem';
+
 // this performs a GET request on /api/items
 // TODO: split QueryArea based on query properties
 function QueryArea(queryMode) {
@@ -16,12 +18,18 @@ function QueryArea(queryMode) {
 
     return (
         <div className="query-items">
-            {data.map(item => {
-                return (
-                    <div key={item.id}><p>{item.name}</p></div>
-                )
-            })}
+            {data.map(item => <QueryItem item={item} key={item.id}/>)}
         </div>
+        // <div className="query-items">
+        //     {data.map(item => {
+        //         return (
+        //             <div key={item.id}>
+        //                 <p>{item.name}</p>
+        //                 <input type="checkbox" checked={item.checked} />
+        //             </div>
+        //         )
+        //     })}
+        // </div>
     )
 }
 
