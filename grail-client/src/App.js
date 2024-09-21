@@ -3,6 +3,7 @@ import {
   QueryClient,
   QueryClientProvider
 } from '@tanstack/react-query';
+import Button from '@mui/material/Button';
 
 import logo from './d2rlogo2.png';
 import './App.css';
@@ -43,10 +44,10 @@ function App() {
           <button className="search-bar-input-button">search</button>
         </div>
         <div className="nav-bar">
-          <button className="nav-bar-stats" onClick={handleStatsClick}>stats</button>
-          <button className="nav-bar-uniques" onClick={handleUniquesClick}>uniques</button>
-          <button className="nav-bar-sets" onClick={handleSetsClick}>sets</button>
-          <button className="nav-bar-other" onClick={handleOtherClick}>other</button>
+          <Button className="nav-bar-stats" onClick={handleStatsClick}>stats</Button>
+          <Button className="nav-bar-uniques" onClick={handleUniquesClick}>uniques</Button>
+          <Button className="nav-bar-sets" onClick={handleSetsClick}>sets</Button>
+          <Button className="nav-bar-other" onClick={handleOtherClick}>other</Button>
         </div>
         <Content queryMode={queryMode} />
       </div>
