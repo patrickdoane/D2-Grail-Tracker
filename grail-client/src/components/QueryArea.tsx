@@ -1,6 +1,7 @@
 import { useQuery } from '@tanstack/react-query';
 
-import QueryItem from './QueryItem';
+import QueryItem from './QueryItem.tsx';
+import React from 'react';
 
 // this performs a GET request on /api/items
 // TODO: split QueryArea based on query properties

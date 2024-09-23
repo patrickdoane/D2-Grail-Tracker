@@ -1,4 +1,5 @@
-import QueryArea from './QueryArea';
+import React from 'react';
+import QueryArea from './QueryArea.tsx';
 
 function Content({queryMode}) {
     if (queryMode === 'uniques') {
