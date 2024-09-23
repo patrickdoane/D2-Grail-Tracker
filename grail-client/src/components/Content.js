@@ -1,7 +1,7 @@
 import QueryArea from './QueryArea';
 
-function Content(queryMode) {
-    if (queryMode.queryMode === 'uniques') {
+function Content({queryMode}) {
+    if (queryMode === 'uniques') {
         return (
             <div className="App-content">
                 <QueryArea queryMode={queryMode}/>
@@ -9,7 +9,7 @@ function Content(queryMode) {
         )
     }
 
-    else if (queryMode.queryMode === 'sets') {
+    else if (queryMode === 'sets') {
         return (
             <div className="App-content">
                 <p>Sets</p>
@@ -18,7 +18,7 @@ function Content(queryMode) {
         )
     }
 
-    else if (queryMode.queryMode === 'other') {
+    else if (queryMode === 'other') {
         return (
             <div className="App-content">
                 <p>Other</p>

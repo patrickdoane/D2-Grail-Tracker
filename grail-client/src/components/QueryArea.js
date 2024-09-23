@@ -4,8 +4,8 @@ import QueryItem from './QueryItem';
 
 // this performs a GET request on /api/items
 // TODO: split QueryArea based on query properties
-function QueryArea(queryMode) {
-    let apiUrl = 'http://localhost:8080/api/items/' + queryMode.queryMode.queryMode;
+function QueryArea({queryMode}) {
+    let apiUrl = 'http://localhost:8080/api/items/' + queryMode;
 
     const { isPending, error, data } = useQuery({
         queryKey: ['items'],
