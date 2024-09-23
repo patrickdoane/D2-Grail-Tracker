@@ -1,3 +1,4 @@
+import { ReactQueryDevtools } from '@tanstack/react-query-devtools'
 import { useState } from 'react';
 import * as React from 'react';
 import {
@@ -132,6 +133,7 @@ function App() {
             <Content queryMode={queryMode} />
           </Box>
         </React.Fragment>
+        <ReactQueryDevtools initialIsOpen={false} />
       </QueryClientProvider>
     </ThemeProvider>
   );
