@@ -1,39 +1,25 @@
 import React from 'react';
-import QueryArea from './QueryArea.tsx';
 
-function Content({queryMode}) {
-    if (queryMode === 'uniques') {
-        return (
-            <div className="App-content">
-                <QueryArea queryMode={queryMode}/>
-            </div>
-        )
-    }
+import { useQuery } from '@tanstack/react-query';
+import ContentGrid from './ContentGrid.tsx';
 
-    else if (queryMode === 'sets') {
-        return (
-            <div className="App-content">
-                <p>Sets</p>
-                <QueryArea queryMode={queryMode}/>
-            </div>
-        )
-    }
+function Content({ queryMode }) {
+    let apiUrl = 'http://localhost:8080/api/items/';
 
-    else if (queryMode === 'other') {
-        return (
-            <div className="App-content">
-                <p>Other</p>
-            </div>
-        )
-    }
+    const { isPending, error, data } = useQuery({
+        queryKey: ['items'],
+        queryFn: () => fetch(apiUrl + queryMode).then(res => res.json()),
+    })
 
-    else {
-            return (
-            <div className="App-content">
-                <p>Submit a query</p>
-            </div>
-        )
-    }
+    if (isPending) return 'Loading...';
+
+    if (error) return 'An error has occured: ' + error.message;
+
+    return (
+        <div className="App-content">
+            <ContentGrid items={[...data]} />
+        </div>
+    )
 }
 
 export default Content;
