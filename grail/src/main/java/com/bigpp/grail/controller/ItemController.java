@@ -50,6 +50,7 @@ public class ItemController {
         return itemService.addItem(item);
     }
 
+    @CrossOrigin
     @PutMapping("/{id}")
     public ResponseEntity<Item> updateItem(@PathVariable Long id, @RequestBody Item item) {
         itemService.updateItem(id, item);

@@ -18,7 +18,7 @@ function QueryArea(queryMode) {
 
     return (
         <div className="query-items">
-            {data.map(item => <QueryItem item={item} key={item.id}/>)}
+            {data.map(item => <QueryItem item={item} key={item.id} />)}
         </div>
         // <div className="query-items">
         //     {data.map(item => {

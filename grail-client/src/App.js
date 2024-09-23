@@ -100,8 +100,6 @@ function App() {
                 <Typography
                   variant="h6"
                   noWrap
-                  component="a"
-                  href="#app-bar-with-responsive-menu"
                   sx={{
                     mr: 2,
                     display: { xs: 'none', md: 'flex' },
@@ -112,15 +110,15 @@ function App() {
                     textDecoration: 'none',
                   }}
                 >
-                  Grail Tracker 
+                  Grail Tracker
                 </Typography>
-                <ButtonGroup sx={{ml: 'auto', mr: 'auto'}}>
+                <ButtonGroup size='small' sx={{ ml: 'auto', mr: 'auto' }}>
                   <Button variant="contained" color="inherit" onClick={handleStatsClick}>stats</Button>
                   <Button variant="contained" color="inherit" onClick={handleUniquesClick}>uniques</Button>
                   <Button variant="contained" color="inherit" onClick={handleSetsClick}>sets</Button>
                   <Button variant="contained" color="inherit" onClick={handleOtherClick}>other</Button>
                 </ButtonGroup>
-                <Search sx={{ ml: 'auto' }}>
+                <Search sx={{ ml: 'auto', display: { xs: 'none', md: 'flex' } }}>
                   <SearchIconWrapper>
                     <SearchIcon />
                   </SearchIconWrapper>
