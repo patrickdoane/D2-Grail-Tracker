@@ -4,7 +4,7 @@ import theme from './Theme.tsx';
 
 const styledTheme = createTheme(theme);
 
-const Search = styled('div')(({ theme }) => ({
+const Search = styled('div')(() => ({
   position: 'relative',
   borderRadius: styledTheme.shape.borderRadius,
   backgroundColor: alpha(styledTheme.palette.common.white, 0.15),

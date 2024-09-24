@@ -3,8 +3,8 @@ import React from 'react';
 import { useQuery } from '@tanstack/react-query';
 import ContentGrid from './ContentGrid.tsx';
 
-function Content({ queryMode }) {
-    let apiUrl = 'http://localhost:8080/api/items/';
+function Content({ queryMode }): string | React.JSX.Element {
+    const apiUrl = 'http://localhost:8080/api/items/';
 
     const { isPending, error, data } = useQuery({
         queryKey: ['items', queryMode],
