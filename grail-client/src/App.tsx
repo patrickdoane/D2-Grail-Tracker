@@ -46,7 +46,7 @@ function App(): React.JSX.Element {
             <Content queryMode={queryMode} />
           </Box>
         </React.Fragment>
-        <ReactQueryDevtools initialIsOpen={false} />
+        {/* <ReactQueryDevtools initialIsOpen={false} /> */}
       </QueryClientProvider>
     </ThemeProvider>
   );

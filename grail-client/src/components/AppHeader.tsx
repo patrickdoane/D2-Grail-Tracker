@@ -4,7 +4,7 @@ import Search from "./Search.tsx";
 import SearchIconWrapper from "./SearchIconWrapper.tsx";
 import SearchIcon from '@mui/icons-material/Search';
 import StyledInputBase from "./StyledInputBase.tsx";
-import logo from '../d2rlogo2.png';
+import logo from '../d2rlogo.png';
 
 function AppHeader({ handleStatsClick, handleUniquesClick, handleSetsClick, handleOtherClick }): React.JSX.Element {
     return (

@@ -24,14 +24,7 @@ function ContentGrid({ items }): React.JSX.Element {
     return <DataGrid
         rows={items}
         columns={columns}
-        initialState={{
-            pagination: {
-                paginationModel: {
-                    pageSize: 100,
-                },
-            },
-        }}
-        pageSizeOptions={[100]}
+        autoHeight
         checkboxSelection
         disableRowSelectionOnClick
         processRowUpdate={(updatedRow, originalRow) => {
