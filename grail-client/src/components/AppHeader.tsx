@@ -6,7 +6,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import StyledInputBase from "./StyledInputBase.tsx";
 import logo from '../d2rlogo2.png';
 
-function AppHeader({handleStatsClick, handleUniquesClick, handleSetsClick, handleOtherClick}): React.JSX.Element {
+function AppHeader({ handleStatsClick, handleUniquesClick, handleSetsClick, handleOtherClick }): React.JSX.Element {
     return (
         <AppBar position='static'>
             <Toolbar >
