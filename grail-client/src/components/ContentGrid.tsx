@@ -37,7 +37,6 @@ const columns: GridColDef[] = [
 ];
 
 function ContentGrid({items}) {
-    console.log(items);
     return <DataGrid
         rows={items}
         columns={columns}

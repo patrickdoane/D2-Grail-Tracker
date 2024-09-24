@@ -24,8 +24,10 @@ const queryClient = new QueryClient();
 
 const styledTheme = createTheme(theme);
 
+type QueryMode = "default" | "uniques" | "sets" | "other";
+
 function App() {
-  const [queryMode, setQueryMode] = useState('default');
+  const [queryMode, setQueryMode] = useState<QueryMode>('default');
 
   const handleStatsClick = () => {
     setQueryMode('default');

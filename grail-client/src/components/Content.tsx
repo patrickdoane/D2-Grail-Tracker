@@ -7,7 +7,7 @@ function Content({ queryMode }) {
     let apiUrl = 'http://localhost:8080/api/items/';
 
     const { isPending, error, data } = useQuery({
-        queryKey: ['items'],
+        queryKey: ['items', queryMode],
         queryFn: () => fetch(apiUrl + queryMode).then(res => res.json()),
     })
 
