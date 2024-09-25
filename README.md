@@ -20,7 +20,7 @@ Track the status of your [Holy Grail](https://www.reddit.com/r/diablo2/comments/
 
 * Build `$PROJECT_ROOT/grail-server` in Java IDE of your choice
 * `cd $PROJECT_ROOT/grail-client && npm install` 
-* Create a PostgresSQL database named 'grail'
+* Create a PostgreSQL database named 'grail'
 * Add `env.properties` file to `$PROJECT_ROOT/grail-server` with the following:
 ```
 # env.properties
@@ -29,6 +29,13 @@ DB_USER=yourUserName
 DB_PASSWORD=yourPassword
 API_KEY=yourApiKey
 ```
+* Generate items with the scripts in $PROJECT_ROOT
+```
+node fetchSets.js
+node fetchUniques.js
+```
+* TODO: convert generated json files to csv
+* TODO: add script to import csv to postgresql db
 
 ### Executing program
 * Run grail-server as a Java application
