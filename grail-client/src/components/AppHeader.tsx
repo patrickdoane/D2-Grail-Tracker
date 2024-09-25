@@ -1,9 +1,5 @@
 import { Toolbar, Avatar, Typography, ButtonGroup, Button, AppBar } from "@mui/material";
 import React from "react";
-import Search from "./Search.tsx";
-import SearchIconWrapper from "./SearchIconWrapper.tsx";
-import SearchIcon from '@mui/icons-material/Search';
-import StyledInputBase from "./StyledInputBase.tsx";
 import logo from '../d2rlogo.png';
 
 function AppHeader({ handleStatsClick, handleUniquesClick, handleSetsClick, handleOtherClick }): React.JSX.Element {
@@ -26,21 +22,12 @@ function AppHeader({ handleStatsClick, handleUniquesClick, handleSetsClick, hand
                 >
                     Grail Tracker
                 </Typography>
-                <ButtonGroup size='small' sx={{ ml: 'auto', mr: 'auto' }}>
+                <ButtonGroup size='small' sx={{ ml: 'auto' }}>
                     <Button variant="contained" color="inherit" onClick={handleStatsClick}>stats</Button>
                     <Button variant="contained" color="inherit" onClick={handleUniquesClick}>uniques</Button>
                     <Button variant="contained" color="inherit" onClick={handleSetsClick}>sets</Button>
                     <Button variant="contained" color="inherit" onClick={handleOtherClick}>other</Button>
                 </ButtonGroup>
-                <Search sx={{ ml: 'auto', display: { xs: 'none', md: 'flex' } }}>
-                    <SearchIconWrapper>
-                        <SearchIcon />
-                    </SearchIconWrapper>
-                    <StyledInputBase
-                        placeholder="Search…"
-                        inputProps={{ 'aria-label': 'search' }}
-                    />
-                </Search>
             </Toolbar>
         </AppBar>
     )

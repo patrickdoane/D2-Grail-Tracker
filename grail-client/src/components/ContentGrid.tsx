@@ -1,4 +1,4 @@
-import { DataGrid } from "@mui/x-data-grid";
+import { DataGrid, GridToolbar } from "@mui/x-data-grid";
 import React from "react";
 import { columns } from "./columns.tsx";
 import { useMutation } from "@tanstack/react-query";
@@ -32,6 +32,12 @@ function ContentGrid({ items }): React.JSX.Element {
             return updatedRow;
         }}
         onProcessRowUpdateError={error => console.log(error)}
+        slots={{ toolbar: GridToolbar }}
+        slotProps={{
+            toolbar: {
+                showQuickFilter: true,
+            },
+        }}
     />
 }
 
