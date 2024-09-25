@@ -45,6 +45,7 @@ public class ItemController {
     	return itemService.findByQuality("other");
     }
     
+    @CrossOrigin
     @PostMapping
     public Item addItem(@RequestBody Item item) {
         return itemService.addItem(item);

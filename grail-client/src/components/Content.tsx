@@ -27,7 +27,7 @@ function Content({ queryMode }): string | React.JSX.Element {
 
     return (
         <div className="App-content">
-            { queryMode === 'default' && <Stats /> }
+            { queryMode === 'default' && data && <Stats items={[...data]}/> }
             { queryMode !== 'default' && data && <ContentGrid items={[...data]} /> }
         </div>
     )
