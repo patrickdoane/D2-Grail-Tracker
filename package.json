@@ -1,6 +1,6 @@
 {
   "name": "d2-grail-tracker",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Holy Grail tracking application for Diablo 2",
   "main": "getUniques.js",
   "scripts": {
