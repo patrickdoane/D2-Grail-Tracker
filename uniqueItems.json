@@ -985,54 +985,6 @@
   },
   {
     "found": false,
-    "id": 251,
-    "name": "Amulet of the Viper",
-    "quality": "unique",
-    "type": "vip"
-  },
-  {
-    "found": false,
-    "id": 252,
-    "name": "Staff of Kings",
-    "quality": "unique",
-    "type": "msf"
-  },
-  {
-    "found": false,
-    "id": 253,
-    "name": "Horadric Staff",
-    "quality": "unique",
-    "type": "hst"
-  },
-  {
-    "found": false,
-    "id": 254,
-    "name": "Hell Forge Hammer",
-    "quality": "unique",
-    "type": "hfh"
-  },
-  {
-    "found": false,
-    "id": 255,
-    "name": "KhalimFlail",
-    "quality": "unique",
-    "type": "qf1"
-  },
-  {
-    "found": false,
-    "id": 256,
-    "name": "SuperKhalimFlail",
-    "quality": "unique",
-    "type": "qf2"
-  },
-  {
-    "found": false,
-    "id": 257,
-    "name": "Expansion",
-    "quality": "unique"
-  },
-  {
-    "found": false,
     "itemLvl": 44,
     "id": 258,
     "name": "Coldkill",
@@ -1601,12 +1553,6 @@
   },
   {
     "found": false,
-    "id": 329,
-    "name": "Armor",
-    "quality": "unique"
-  },
-  {
-    "found": false,
     "itemLvl": 36,
     "id": 330,
     "name": "Peasent Crown",
@@ -1975,12 +1921,6 @@
   },
   {
     "found": false,
-    "id": 376,
-    "name": "Elite Uniques",
-    "quality": "unique"
-  },
-  {
-    "found": false,
     "itemLvl": 69,
     "id": 377,
     "name": "Harlequin Crest",
@@ -2133,12 +2073,6 @@
   },
   {
     "found": false,
-    "id": 396,
-    "name": "Rings",
-    "quality": "unique"
-  },
-  {
-    "found": false,
     "itemLvl": 66,
     "id": 397,
     "name": "Bul Katho's Wedding Band",
@@ -2216,12 +2150,6 @@
     "name": "Saracen's Chance",
     "quality": "unique",
     "type": "amu"
-  },
-  {
-    "found": false,
-    "id": 407,
-    "name": "Class Specific",
-    "quality": "unique"
   },
   {
     "found": false,
@@ -2353,12 +2281,6 @@
   },
   {
     "found": false,
-    "id": 424,
-    "name": "Gore Ripper",
-    "quality": "unique"
-  },
-  {
-    "found": false,
     "itemLvl": 71,
     "id": 425,
     "name": "Demonlimb",
@@ -2415,23 +2337,11 @@
   },
   {
     "found": false,
-    "id": 432,
-    "name": "Zakarum's Salvation",
-    "quality": "unique"
-  },
-  {
-    "found": false,
     "itemLvl": 76,
     "id": 433,
     "name": "Fleshripper",
     "quality": "unique",
     "type": "7kr"
-  },
-  {
-    "found": false,
-    "id": 434,
-    "name": "Odium",
-    "quality": "unique"
   },
   {
     "found": false,
@@ -2528,12 +2438,6 @@
     "name": "Leviathan",
     "quality": "unique",
     "type": "uld"
-  },
-  {
-    "found": false,
-    "id": 447,
-    "name": "Larzuk's Champion",
-    "quality": "unique"
   },
   {
     "found": false,
@@ -2697,12 +2601,6 @@
   },
   {
     "found": false,
-    "id": 468,
-    "name": "Giantmaimer",
-    "quality": "unique"
-  },
-  {
-    "found": false,
     "itemLvl": 76,
     "id": 469,
     "name": "Demon's Arch",
@@ -2751,13 +2649,6 @@
   },
   {
     "found": false,
-    "id": 475,
-    "name": "Darkfear",
-    "quality": "unique",
-    "type": "ulm"
-  },
-  {
-    "found": false,
     "itemLvl": 84,
     "id": 476,
     "name": "Dragonscale",
@@ -2795,12 +2686,6 @@
     "name": "Boneshade",
     "quality": "unique",
     "type": "7bw"
-  },
-  {
-    "found": false,
-    "id": 481,
-    "name": "Nethercrow",
-    "quality": "unique"
   },
   {
     "found": false,
@@ -2876,12 +2761,6 @@
   },
   {
     "found": false,
-    "id": 491,
-    "name": "Warriv's Warder",
-    "quality": "unique"
-  },
-  {
-    "found": false,
     "itemLvl": 78,
     "id": 492,
     "name": "Spike Thorn",
@@ -2954,12 +2833,6 @@
   },
   {
     "found": false,
-    "id": 501,
-    "name": "Merman's Speed",
-    "quality": "unique"
-  },
-  {
-    "found": false,
     "itemLvl": 87,
     "id": 502,
     "name": "Arachnid Mesh",
@@ -2989,12 +2862,6 @@
     "name": "Verdugo's Hearty Cord",
     "quality": "unique",
     "type": "umc"
-  },
-  {
-    "found": false,
-    "id": 506,
-    "name": "Sigurd's Staunch",
-    "quality": "unique"
   },
   {
     "found": false,

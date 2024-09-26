@@ -16,11 +16,13 @@ async function fetchItems() {
             trimmedItem.name = item.index;
             trimmedItem.quality = "unique";
             trimmedItem.type = item.code;
-            console.log(trimmedItem);
+            
             return trimmedItem;
         });
 
-        fs.writeFileSync('uniqueItems.json', JSON.stringify(uniqueItems, null, 2));
+        const filteredItems = uniqueItems.filter(item => item.itemLvl);
+
+        fs.writeFileSync('uniqueItems.json', JSON.stringify(filteredItems, null, 2));
         console.log('Unique items saved to uniqueItems.json');
 
     } catch (error) {

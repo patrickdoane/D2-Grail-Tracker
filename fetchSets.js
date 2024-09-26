@@ -16,11 +16,13 @@ async function fetchItems() {
             trimmedItem.name = item.index;
             trimmedItem.quality = "set";
             trimmedItem.type = item.item;
-            console.log(trimmedItem);
+
             return trimmedItem;
         });
 
-        fs.writeFileSync('setItems.json', JSON.stringify(setItems, null, 2));
+        const filteredItems = setItems.filter(item => item.itemLvl);
+
+        fs.writeFileSync('setItems.json', JSON.stringify(filteredItems, null, 2));
         console.log('Set items saved to setItems.json');
 
     } catch (error) {

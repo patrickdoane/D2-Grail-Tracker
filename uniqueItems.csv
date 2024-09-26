@@ -1,382 +1,382 @@
-"found","itemLvl","id","name","quality","type"
-"False","7","128","The Gnasher","unique","hax"
-"False","12","129","Deathspade","unique","axe"
-"False","20","130","Bladebone","unique","2ax"
-"False","28","131","Mindrend","unique","mpi"
-"False","36","132","Rakescar","unique","wax"
-"False","11","133","Fechmars Axe","unique","lax"
-"False","19","134","Goreshovel","unique","bax"
-"False","26","135","The Chieftan","unique","btx"
-"False","34","136","Brainhew","unique","gax"
-"False","39","137","The Humongous","unique","gix"
-"False","7","138","Iros Torch","unique","wnd"
-"False","19","139","Maelstromwrath","unique","ywn"
-"False","27","140","Gravenspine","unique","bwn"
-"False","38","141","Umes Lament","unique","gwn"
-"False","4","142","Felloak","unique","clb"
-"False","7","143","Knell Striker","unique","scp"
-"False","23","144","Rusthandle","unique","gsc"
-"False","31","145","Stormeye","unique","wsp"
-"False","7","146","Stoutnail","unique","spc"
-"False","12","147","Crushflange","unique","mac"
-"False","20","148","Bloodrise","unique","mst"
-"False","28","149","The Generals Tan Do Li Ga","unique","fla"
-"False","36","150","Ironstone","unique","whm"
-"False","32","151","Bonesob","unique","mau"
-"False","39","152","Steeldriver","unique","gma"
-"False","3","153","Rixots Keen","unique","ssd"
-"False","10","154","Blood Crescent","unique","scm"
-"False","14","155","Krintizs Skewer","unique","sbr"
-"False","18","156","Gleamscythe","unique","flc"
-"False","18","157","Azurewrath","unique","crs"
-"False","23","158","Griswolds Edge","unique","bsd"
-"False","30","159","Hellplague","unique","lsd"
-"False","39","160","Culwens Point","unique","wsd"
-"False","16","161","Shadowfang","unique","2hs"
-"False","26","162","Soulflay","unique","clm"
-"False","31","163","Kinemils Awl","unique","gis"
-"False","35","164","Blacktongue","unique","bsw"
-"False","35","165","Ripsaw","unique","flb"
-"False","39","166","The Patriarch","unique","gsd"
-"False","6","167","Gull","unique","dgr"
-"False","15","168","The Diggler","unique","dir"
-"False","26","169","The Jade Tan Do","unique","kri"
-"False","34","170","Irices Shard","unique","bld"
-"False","11","171","The Dragon Chang","unique","spr"
-"False","16","172","Razortine","unique","tri"
-"False","23","173","Bloodthief","unique","brn"
-"False","30","174","Lance of Yaggai","unique","spt"
-"False","36","175","The Tannr Gorerod","unique","pik"
-"False","11","176","Dimoaks Hew","unique","bar"
-"False","19","177","Steelgoad","unique","vou"
-"False","26","178","Soul Harvest","unique","scy"
-"False","34","179","The Battlebranch","unique","pax"
-"False","38","180","Woestave","unique","hal"
-"False","39","181","The Grim Reaper","unique","wsc"
-"False","7","182","Bane Ash","unique","sst"
-"False","12","183","Serpent Lord","unique","lst"
-"False","24","184","Lazarus Spire","unique","cst"
-"False","28","185","The Salamander","unique","bst"
-"False","38","186","The Iron Jang Bong","unique","wst"
-"False","10","187","Pluckeye","unique","sbw"
-"False","18","188","Witherstring","unique","hbw"
-"False","20","189","Rimeraven","unique","lbw"
-"False","27","190","Piercerib","unique","cbw"
-"False","34","191","Pullspite","unique","sbb"
-"False","35","192","Wizendraw","unique","lbb"
-"False","36","193","Hellclap","unique","swb"
-"False","38","194","Blastbark","unique","lwb"
-"False","12","195","Leadcrow","unique","lxb"
-"False","24","196","Ichorsting","unique","mxb"
-"False","36","197","Hellcast","unique","hxb"
-"False","38","198","Doomspittle","unique","rxb"
-"False","4","199","War Bonnet","unique","cap"
-"False","20","200","Tarnhelm","unique","skp"
-"False","19","201","Coif of Glory","unique","hlm"
-"False","23","202","Duskdeep","unique","fhl"
-"False","28","203","Wormskull","unique","bhm"
-"False","34","204","Howltusk","unique","ghm"
-"False","39","205","Undead Crown","unique","crn"
-"False","27","206","The Face of Horror","unique","msk"
-"False","10","207","Greyform","unique","qui"
-"False","16","208","Blinkbats Form","unique","lea"
-"False","19","209","The Centurion","unique","hla"
-"False","22","210","Twitchthroe","unique","stu"
-"False","19","211","Darkglow","unique","rng"
-"False","20","212","Hawkmail","unique","scl"
-"False","23","213","Sparking Mail","unique","chn"
-"False","27","214","Venomsward","unique","brs"
-"False","30","215","Iceblink","unique","spl"
-"False","35","216","Boneflesh","unique","plt"
-"False","38","217","Rockfleece","unique","fld"
-"False","39","218","Rattlecage","unique","gth"
-"False","38","219","Goldskin","unique","ful"
-"False","38","220","Victors Silk","unique","aar"
-"False","39","221","Heavenly Garb","unique","ltp"
-"False","3","222","Pelta Lunata","unique","buc"
-"False","12","223","Umbral Disk","unique","sml"
-"False","18","224","Stormguild","unique","lrg"
-"False","27","225","Wall of the Eyeless","unique","bsh"
-"False","20","226","Swordback Hold","unique","spk"
-"False","23","227","Steelclash","unique","kit"
-"False","26","228","Bverrit Keep","unique","tow"
-"False","35","229","The Ward","unique","gts"
-"False","7","230","The Hand of Broc","unique","lgl"
-"False","12","231","Bloodfist","unique","vgl"
-"False","20","232","Chance Guards","unique","mgl"
-"False","31","233","Magefist","unique","tgl"
-"False","39","234","Frostburn","unique","hgl"
-"False","7","235","Hotspur","unique","lbt"
-"False","12","236","Gorefoot","unique","vbt"
-"False","20","237","Treads of Cthon","unique","mbt"
-"False","30","238","Goblin Toe","unique","tbt"
-"False","39","239","Tearhaunch","unique","hbt"
-"False","10","240","Lenyms Cord","unique","lbl"
-"False","16","241","Snakecord","unique","vbl"
-"False","27","242","Nightsmoke","unique","mbl"
-"False","36","243","Goldwrap","unique","tbl"
-"False","39","244","Bladebuckle","unique","hbl"
-"False","14","245","Nokozan Relic","unique","amu"
-"False","20","246","The Eye of Etlich","unique","amu"
-"False","34","247","The Mahim-Oak Curio","unique","amu"
-"False","10","248","Nagelring","unique","rin"
-"False","20","249","Manald Heal","unique","rin"
-"False","39","250","The Stone of Jordan","unique","rin"
-"False","44","258","Coldkill","unique","9ha"
-"False","47","259","Butcher's Pupil","unique","9ax"
-"False","51","260","Islestrike","unique","92a"
-"False","53","261","Pompe's Wrath","unique","9mp"
-"False","56","262","Guardian Naga","unique","9wa"
-"False","43","263","Warlord's Trust","unique","9la"
-"False","47","264","Spellsteel","unique","9ba"
-"False","49","265","Stormrider","unique","9bt"
-"False","50","266","Boneslayer Blade","unique","9ga"
-"False","53","267","The Minataur","unique","9gi"
-"False","41","268","Suicide Branch","unique","9wn"
-"False","43","269","Carin Shard","unique","9yw"
-"False","44","270","Arm of King Leoric","unique","9bw"
-"False","49","271","Blackhand Key","unique","9gw"
-"False","42","272","Dark Clan Crusher","unique","9cl"
-"False","45","273","Zakarum's Hand","unique","9sc"
-"False","46","274","The Fetid Sprinkler","unique","9qs"
-"False","50","275","Hand of Blessed Light","unique","9ws"
-"False","46","276","Fleshrender","unique","9sp"
-"False","47","277","Sureshrill Frost","unique","9ma"
-"False","50","278","Moonfall","unique","9mt"
-"False","53","279","Baezil's Vortex","unique","9fl"
-"False","51","280","Earthshaker","unique","9wh"
-"False","56","281","Bloodtree Stump","unique","9m9"
-"False","53","282","The Gavel of Pain","unique","9gm"
-"False","38","283","Bloodletter","unique","9ss"
-"False","39","284","Coldsteel Eye","unique","9sm"
-"False","41","285","Hexfire","unique","9sb"
-"False","43","286","Blade of Ali Baba","unique","9fc"
-"False","45","287","Ginther's Rift","unique","9cr"
-"False","47","288","Headstriker","unique","9bs"
-"False","49","289","Plague Bearer","unique","9ls"
-"False","50","290","The Atlantian","unique","9wd"
-"False","50","291","Crainte Vomir","unique","92h"
-"False","51","292","Bing Sz Wang","unique","9cm"
-"False","52","293","The Vile Husk","unique","9gs"
-"False","53","294","Cloudcrack","unique","9b9"
-"False","54","295","Todesfaelle Flamme","unique","9fb"
-"False","55","296","Swordguard","unique","9gd"
-"False","40","297","Spineripper","unique","9dg"
-"False","44","298","Heart Carver","unique","9di"
-"False","46","299","Blackbog's Sharp","unique","9kr"
-"False","49","300","Stormspike","unique","9bl"
-"False","39","301","The Impaler","unique","9sr"
-"False","41","302","Kelpie Snare","unique","9tr"
-"False","43","303","Soulfeast Tine","unique","9br"
-"False","45","304","Hone Sundan","unique","9st"
-"False","47","305","Spire of Honor","unique","9p9"
-"False","49","306","The Meat Scraper","unique","9b7"
-"False","50","307","Blackleach Blade","unique","9vo"
-"False","50","308","Athena's Wrath","unique","9s8"
-"False","51","309","Pierre Tombale Couant","unique","9pa"
-"False","52","310","Husoldal Evo","unique","9h9"
-"False","52","311","Grim's Burning Dead","unique","9wc"
-"False","36","312","Razorswitch","unique","8ss"
-"False","39","313","Ribcracker","unique","8ls"
-"False","43","314","Chromatic Ire","unique","8cs"
-"False","47","315","Warpspear","unique","8bs"
-"False","49","316","Skullcollector","unique","8ws"
-"False","36","317","Skystrike","unique","8sb"
-"False","39","318","Riphook","unique","8hb"
-"False","41","319","Kuko Shakaku","unique","8lb"
-"False","44","320","Endlesshail","unique","8cb"
-"False","47","321","Whichwild String","unique","8s8"
-"False","49","322","Cliffkiller","unique","8l8"
-"False","51","323","Magewrath","unique","8sw"
-"False","54","324","Godstrike Arch","unique","8lw"
-"False","40","325","Langer Briser","unique","8lx"
-"False","44","326","Pus Spiter","unique","8mx"
-"False","59","327","Buriza-Do Kyanon","unique","8hx"
-"False","57","328","Demon Machine","unique","8rx"
-"False","36","330","Peasent Crown","unique","xap"
-"False","39","331","Rockstopper","unique","xkp"
-"False","43","332","Stealskull","unique","xlm"
-"False","46","333","Darksight Helm","unique","xhl"
-"False","52","334","Valkiry Wing","unique","xhm"
-"False","57","335","Crown of Thieves","unique","xrn"
-"False","49","336","Blackhorn's Face","unique","xsk"
-"False","49","337","Vampiregaze","unique","xh9"
-"False","36","338","The Spirit Shroud","unique","xui"
-"False","37","339","Skin of the Vipermagi","unique","xea"
-"False","39","340","Skin of the Flayerd One","unique","xla"
-"False","41","341","Ironpelt","unique","xtu"
-"False","43","342","Spiritforge","unique","xng"
-"False","45","343","Crow Caw","unique","xcl"
-"False","46","344","Shaftstop","unique","xhn"
-"False","49","345","Duriel's Shell","unique","xrs"
-"False","50","346","Skullder's Ire","unique","xpl"
-"False","53","347","Guardian Angel","unique","xlt"
-"False","56","348","Toothrow","unique","xld"
-"False","59","349","Atma's Wail","unique","xth"
-"False","61","350","Black Hades","unique","xul"
-"False","63","351","Corpsemourn","unique","xar"
-"False","59","352","Que-Hegan's Wisdon","unique","xtp"
-"False","36","353","Visceratuant","unique","xuc"
-"False","39","354","Mosers Blessed Circle","unique","xml"
-"False","43","355","Stormchaser","unique","xrg"
-"False","46","356","Tiamat's Rebuke","unique","xit"
-"False","52","357","Kerke's Sanctuary","unique","xow"
-"False","58","358","Radimant's Sphere","unique","xts"
-"False","49","359","Lidless Wall","unique","xsh"
-"False","43","360","Lance Guard","unique","xpk"
-"False","37","361","Venom Grip","unique","xlg"
-"False","39","362","Gravepalm","unique","xvg"
-"False","44","363","Ghoulhide","unique","xmg"
-"False","50","364","Lavagout","unique","xtg"
-"False","55","365","Hellmouth","unique","xhg"
-"False","37","366","Infernostride","unique","xlb"
-"False","40","367","Waterwalk","unique","xvb"
-"False","44","368","Silkweave","unique","xmb"
-"False","50","369","Wartraveler","unique","xtb"
-"False","55","370","Gorerider","unique","xhb"
-"False","37","371","String of Ears","unique","zlb"
-"False","39","372","Razortail","unique","zvb"
-"False","45","373","Gloomstrap","unique","zmb"
-"False","49","374","Snowclash","unique","ztb"
-"False","55","375","Thudergod's Vigor","unique","zhb"
-"False","69","377","Harlequin Crest","unique","uap"
-"False","77","378","Veil of Steel","unique","uhm"
-"False","85","379","The Gladiator's Bane","unique","utu"
-"False","85","380","Arkaine's Valor","unique","upl"
-"False","67","381","Blackoak Shield","unique","uml"
-"False","77","382","Stormshield","unique","uit"
-"False","71","383","Hellslayer","unique","7bt"
-"False","75","384","Messerschmidt's Reaver","unique","7ga"
-"False","70","385","Baranar's Star","unique","7mt"
-"False","83","386","Schaefer's Hammer","unique","7wh"
-"False","85","387","The Cranium Basher","unique","7gm"
-"False","66","388","Lightsabre","unique","7cr"
-"False","75","389","Doombringer","unique","7b7"
-"False","85","390","The Grandfather","unique","7gd"
-"False","69","391","Wizardspike","unique","7dg"
-"False","95","392","Constricting Ring","unique","rin"
-"False","78","393","Stormspire","unique","7wc"
-"False","77","394","Eaglehorn","unique","6l7"
-"False","80","395","Windforce","unique","6lw"
-"False","66","397","Bul Katho's Wedding Band","unique","rin"
-"False","58","398","The Cat's Eye","unique","amu"
-"False","73","399","The Rising Sun","unique","amu"
-"False","58","400","Crescent Moon","unique","amu"
-"False","80","401","Mara's Kaleidoscope","unique","amu"
-"False","60","402","Atma's Scarab","unique","amu"
-"False","53","403","Dwarf Star","unique","rin"
-"False","53","404","Raven Frost","unique","rin"
-"False","73","405","Highlord's Wrath","unique","amu"
-"False","55","406","Saracen's Chance","unique","amu"
-"False","50","408","Arreat's Face","unique","baa"
-"False","50","409","Homunculus","unique","nea"
-"False","50","410","Titan's Revenge","unique","ama"
-"False","50","411","Lycander's Aim","unique","am7"
-"False","50","412","Lycander's Flank","unique","am9"
-"False","50","413","The Oculus","unique","oba"
-"False","50","414","Herald of Zakarum","unique","pa9"
-"False","50","415","Cutthroat1","unique","9tw"
-"False","50","416","Jalal's Mane","unique","dra"
-"False","65","417","The Scalper","unique","9ta"
-"False","69","418","Bloodmoon","unique","7sb"
-"False","73","419","Djinnslayer","unique","7sm"
-"False","52","420","Deathbit","unique","9tk"
-"False","83","421","Warshrike","unique","7bk"
-"False","79","422","Gutsiphon","unique","6rx"
-"False","75","423","Razoredge","unique","7ha"
-"False","71","425","Demonlimb","unique","7sp"
-"False","70","426","Steelshade","unique","ulm"
-"False","86","427","Tomb Reaver","unique","7pa"
-"False","74","428","Deaths's Web","unique","7gw"
-"False","77","429","Nature's Peace","unique","rin"
-"False","87","430","Azurewrath","unique","7cr"
-"False","73","431","Seraph's Hymn","unique","amu"
-"False","76","433","Fleshripper","unique","7kr"
-"False","72","435","Horizon's Tornado","unique","7fl"
-"False","76","436","Stone Crusher","unique","7wh"
-"False","74","437","Jadetalon","unique","7wb"
-"False","79","438","Shadowdancer","unique","uhb"
-"False","71","439","Cerebus","unique","drb"
-"False","87","440","Tyrael's Might","unique","uar"
-"False","82","441","Souldrain","unique","umg"
-"False","80","442","Runemaster","unique","72a"
-"False","78","443","Deathcleaver","unique","7wa"
-"False","83","444","Executioner's Justice","unique","7gi"
-"False","72","445","Stoneraven","unique","amd"
-"False","73","446","Leviathan","unique","uld"
-"False","84","448","Wisp","unique","rin"
-"False","78","449","Gargoyle's Bite","unique","7ts"
-"False","76","450","Lacerator","unique","7b8"
-"False","86","451","Mang Song's Lesson","unique","6ws"
-"False","79","452","Viperfork","unique","7br"
-"False","82","453","Ethereal Edge","unique","7ba"
-"False","69","454","Demonhorn's Edge","unique","bad"
-"False","83","455","The Reaper's Toll","unique","7s8"
-"False","75","456","Spiritkeeper","unique","drd"
-"False","84","457","Hellrack","unique","6hx"
-"False","85","458","Alma Negra","unique","pac"
-"False","72","459","Darkforge Spawn","unique","nef"
-"False","73","460","Widowmaker","unique","6sw"
-"False","79","461","Bloodraven's Charge","unique","amb"
-"False","70","462","Ghostflame","unique","7bl"
-"False","85","463","Shadowkiller","unique","7cs"
-"False","78","464","Gimmershred","unique","7ta"
-"False","84","465","Griffon's Eye","unique","ci3"
-"False","76","466","Windhammer","unique","7m7"
-"False","77","467","Thunderstroke","unique","amf"
-"False","76","469","Demon's Arch","unique","7s7"
-"False","80","470","Boneflame","unique","nee"
-"False","77","471","Steelpillar","unique","7p7"
-"False","75","472","Nightwing's Veil","unique","uhm"
-"False","86","473","Crown of Ages","unique","urn"
-"False","85","474","Andariel's Visage","unique","usk"
-"False","84","476","Dragonscale","unique","pae"
-"False","74","477","Steel Carapice","unique","uul"
-"False","84","478","Medusa's Gaze","unique","uow"
-"False","82","479","Ravenlore","unique","dre"
-"False","84","480","Boneshade","unique","7bw"
-"False","79","482","Flamebellow","unique","7gs"
-"False","81","483","Fathom","unique","obf"
-"False","85","484","Wolfhowl","unique","bac"
-"False","76","485","Spirit Ward","unique","uts"
-"False","85","486","Kira's Guardian","unique","ci2"
-"False","83","487","Ormus' Robes","unique","uui"
-"False","70","488","Gheed's Fortune","unique","cm3"
-"False","86","489","Stormlash","unique","7fl"
-"False","85","490","Halaberd's Reign","unique","bae"
-"False","78","492","Spike Thorn","unique","upk"
-"False","84","493","Dracul's Grasp","unique","uvg"
-"False","78","494","Frostwind","unique","7ls"
-"False","82","495","Templar's Might","unique","uar"
-"False","80","496","Eschuta's temper","unique","obc"
-"False","75","497","Firelizard's Talons","unique","7lw"
-"False","72","498","Sandstorm Trek","unique","uvb"
-"False","74","499","Marrowwalk","unique","umb"
-"False","69","500","Heaven's Light","unique","7sc"
-"False","87","502","Arachnid Mesh","unique","ulc"
-"False","68","503","Nosferatu's Coil","unique","uvc"
-"False","85","504","Metalgrid","unique","amu"
-"False","71","505","Verdugo's Hearty Cord","unique","umc"
-"False","68","507","Carrion Wind","unique","rin"
-"False","73","508","Giantskull","unique","uh9"
-"False","68","509","Ironward","unique","7ws"
-"False","110","510","Annihilus","unique","cm1"
-"False","85","511","Arioc's Needle","unique","7sr"
-"False","71","512","Cranebeak","unique","7mp"
-"False","76","513","Nord's Tenderizer","unique","7cl"
-"False","77","514","Earthshifter","unique","7gm"
-"False","84","515","Wraithflight","unique","7gl"
-"False","72","516","Bonehew","unique","7o7"
-"False","74","517","Ondal's Wisdom","unique","6cs"
-"False","80","518","The Reedeemer","unique","7sc"
-"False","83","519","Headhunter's Glory","unique","ush"
-"False","78","520","Steelrend","unique","uhg"
-"False","85","521","Rainbow Facet","unique","jew"
-"False","85","522","Rainbow Facet","unique","jew"
-"False","85","523","Rainbow Facet","unique","jew"
-"False","85","524","Rainbow Facet","unique","jew"
-"False","85","525","Rainbow Facet","unique","jew"
-"False","85","526","Rainbow Facet","unique","jew"
-"False","85","527","Rainbow Facet","unique","jew"
-"False","85","528","Rainbow Facet","unique","jew"
-"False","110","529","Hellfire Torch","unique","cm2"
+found,itemLvl,id,name,quality,type
+false,7,128,The Gnasher,unique,hax
+false,12,129,Deathspade,unique,axe
+false,20,130,Bladebone,unique,2ax
+false,28,131,Mindrend,unique,mpi
+false,36,132,Rakescar,unique,wax
+false,11,133,Fechmars Axe,unique,lax
+false,19,134,Goreshovel,unique,bax
+false,26,135,The Chieftan,unique,btx
+false,34,136,Brainhew,unique,gax
+false,39,137,The Humongous,unique,gix
+false,7,138,Iros Torch,unique,wnd
+false,19,139,Maelstromwrath,unique,ywn
+false,27,140,Gravenspine,unique,bwn
+false,38,141,Umes Lament,unique,gwn
+false,4,142,Felloak,unique,clb
+false,7,143,Knell Striker,unique,scp
+false,23,144,Rusthandle,unique,gsc
+false,31,145,Stormeye,unique,wsp
+false,7,146,Stoutnail,unique,spc
+false,12,147,Crushflange,unique,mac
+false,20,148,Bloodrise,unique,mst
+false,28,149,The Generals Tan Do Li Ga,unique,fla
+false,36,150,Ironstone,unique,whm
+false,32,151,Bonesob,unique,mau
+false,39,152,Steeldriver,unique,gma
+false,3,153,Rixots Keen,unique,ssd
+false,10,154,Blood Crescent,unique,scm
+false,14,155,Krintizs Skewer,unique,sbr
+false,18,156,Gleamscythe,unique,flc
+false,18,157,Azurewrath,unique,crs
+false,23,158,Griswolds Edge,unique,bsd
+false,30,159,Hellplague,unique,lsd
+false,39,160,Culwens Point,unique,wsd
+false,16,161,Shadowfang,unique,2hs
+false,26,162,Soulflay,unique,clm
+false,31,163,Kinemils Awl,unique,gis
+false,35,164,Blacktongue,unique,bsw
+false,35,165,Ripsaw,unique,flb
+false,39,166,The Patriarch,unique,gsd
+false,6,167,Gull,unique,dgr
+false,15,168,The Diggler,unique,dir
+false,26,169,The Jade Tan Do,unique,kri
+false,34,170,Irices Shard,unique,bld
+false,11,171,The Dragon Chang,unique,spr
+false,16,172,Razortine,unique,tri
+false,23,173,Bloodthief,unique,brn
+false,30,174,Lance of Yaggai,unique,spt
+false,36,175,The Tannr Gorerod,unique,pik
+false,11,176,Dimoaks Hew,unique,bar
+false,19,177,Steelgoad,unique,vou
+false,26,178,Soul Harvest,unique,scy
+false,34,179,The Battlebranch,unique,pax
+false,38,180,Woestave,unique,hal
+false,39,181,The Grim Reaper,unique,wsc
+false,7,182,Bane Ash,unique,sst
+false,12,183,Serpent Lord,unique,lst
+false,24,184,Lazarus Spire,unique,cst
+false,28,185,The Salamander,unique,bst
+false,38,186,The Iron Jang Bong,unique,wst
+false,10,187,Pluckeye,unique,sbw
+false,18,188,Witherstring,unique,hbw
+false,20,189,Rimeraven,unique,lbw
+false,27,190,Piercerib,unique,cbw
+false,34,191,Pullspite,unique,sbb
+false,35,192,Wizendraw,unique,lbb
+false,36,193,Hellclap,unique,swb
+false,38,194,Blastbark,unique,lwb
+false,12,195,Leadcrow,unique,lxb
+false,24,196,Ichorsting,unique,mxb
+false,36,197,Hellcast,unique,hxb
+false,38,198,Doomspittle,unique,rxb
+false,4,199,War Bonnet,unique,cap
+false,20,200,Tarnhelm,unique,skp
+false,19,201,Coif of Glory,unique,hlm
+false,23,202,Duskdeep,unique,fhl
+false,28,203,Wormskull,unique,bhm
+false,34,204,Howltusk,unique,ghm
+false,39,205,Undead Crown,unique,crn
+false,27,206,The Face of Horror,unique,msk
+false,10,207,Greyform,unique,qui
+false,16,208,Blinkbats Form,unique,lea
+false,19,209,The Centurion,unique,hla
+false,22,210,Twitchthroe,unique,stu
+false,19,211,Darkglow,unique,rng
+false,20,212,Hawkmail,unique,scl
+false,23,213,Sparking Mail,unique,chn
+false,27,214,Venomsward,unique,brs
+false,30,215,Iceblink,unique,spl
+false,35,216,Boneflesh,unique,plt
+false,38,217,Rockfleece,unique,fld
+false,39,218,Rattlecage,unique,gth
+false,38,219,Goldskin,unique,ful
+false,38,220,Victors Silk,unique,aar
+false,39,221,Heavenly Garb,unique,ltp
+false,3,222,Pelta Lunata,unique,buc
+false,12,223,Umbral Disk,unique,sml
+false,18,224,Stormguild,unique,lrg
+false,27,225,Wall of the Eyeless,unique,bsh
+false,20,226,Swordback Hold,unique,spk
+false,23,227,Steelclash,unique,kit
+false,26,228,Bverrit Keep,unique,tow
+false,35,229,The Ward,unique,gts
+false,7,230,The Hand of Broc,unique,lgl
+false,12,231,Bloodfist,unique,vgl
+false,20,232,Chance Guards,unique,mgl
+false,31,233,Magefist,unique,tgl
+false,39,234,Frostburn,unique,hgl
+false,7,235,Hotspur,unique,lbt
+false,12,236,Gorefoot,unique,vbt
+false,20,237,Treads of Cthon,unique,mbt
+false,30,238,Goblin Toe,unique,tbt
+false,39,239,Tearhaunch,unique,hbt
+false,10,240,Lenyms Cord,unique,lbl
+false,16,241,Snakecord,unique,vbl
+false,27,242,Nightsmoke,unique,mbl
+false,36,243,Goldwrap,unique,tbl
+false,39,244,Bladebuckle,unique,hbl
+false,14,245,Nokozan Relic,unique,amu
+false,20,246,The Eye of Etlich,unique,amu
+false,34,247,The Mahim-Oak Curio,unique,amu
+false,10,248,Nagelring,unique,rin
+false,20,249,Manald Heal,unique,rin
+false,39,250,The Stone of Jordan,unique,rin
+false,44,258,Coldkill,unique,9ha
+false,47,259,Butcher's Pupil,unique,9ax
+false,51,260,Islestrike,unique,92a
+false,53,261,Pompe's Wrath,unique,9mp
+false,56,262,Guardian Naga,unique,9wa
+false,43,263,Warlord's Trust,unique,9la
+false,47,264,Spellsteel,unique,9ba
+false,49,265,Stormrider,unique,9bt
+false,50,266,Boneslayer Blade,unique,9ga
+false,53,267,The Minataur,unique,9gi
+false,41,268,Suicide Branch,unique,9wn
+false,43,269,Carin Shard,unique,9yw
+false,44,270,Arm of King Leoric,unique,9bw
+false,49,271,Blackhand Key,unique,9gw
+false,42,272,Dark Clan Crusher,unique,9cl
+false,45,273,Zakarum's Hand,unique,9sc
+false,46,274,The Fetid Sprinkler,unique,9qs
+false,50,275,Hand of Blessed Light,unique,9ws
+false,46,276,Fleshrender,unique,9sp
+false,47,277,Sureshrill Frost,unique,9ma
+false,50,278,Moonfall,unique,9mt
+false,53,279,Baezil's Vortex,unique,9fl
+false,51,280,Earthshaker,unique,9wh
+false,56,281,Bloodtree Stump,unique,9m9
+false,53,282,The Gavel of Pain,unique,9gm
+false,38,283,Bloodletter,unique,9ss
+false,39,284,Coldsteel Eye,unique,9sm
+false,41,285,Hexfire,unique,9sb
+false,43,286,Blade of Ali Baba,unique,9fc
+false,45,287,Ginther's Rift,unique,9cr
+false,47,288,Headstriker,unique,9bs
+false,49,289,Plague Bearer,unique,9ls
+false,50,290,The Atlantian,unique,9wd
+false,50,291,Crainte Vomir,unique,92h
+false,51,292,Bing Sz Wang,unique,9cm
+false,52,293,The Vile Husk,unique,9gs
+false,53,294,Cloudcrack,unique,9b9
+false,54,295,Todesfaelle Flamme,unique,9fb
+false,55,296,Swordguard,unique,9gd
+false,40,297,Spineripper,unique,9dg
+false,44,298,Heart Carver,unique,9di
+false,46,299,Blackbog's Sharp,unique,9kr
+false,49,300,Stormspike,unique,9bl
+false,39,301,The Impaler,unique,9sr
+false,41,302,Kelpie Snare,unique,9tr
+false,43,303,Soulfeast Tine,unique,9br
+false,45,304,Hone Sundan,unique,9st
+false,47,305,Spire of Honor,unique,9p9
+false,49,306,The Meat Scraper,unique,9b7
+false,50,307,Blackleach Blade,unique,9vo
+false,50,308,Athena's Wrath,unique,9s8
+false,51,309,Pierre Tombale Couant,unique,9pa
+false,52,310,Husoldal Evo,unique,9h9
+false,52,311,Grim's Burning Dead,unique,9wc
+false,36,312,Razorswitch,unique,8ss
+false,39,313,Ribcracker,unique,8ls
+false,43,314,Chromatic Ire,unique,8cs
+false,47,315,Warpspear,unique,8bs
+false,49,316,Skullcollector,unique,8ws
+false,36,317,Skystrike,unique,8sb
+false,39,318,Riphook,unique,8hb
+false,41,319,Kuko Shakaku,unique,8lb
+false,44,320,Endlesshail,unique,8cb
+false,47,321,Whichwild String,unique,8s8
+false,49,322,Cliffkiller,unique,8l8
+false,51,323,Magewrath,unique,8sw
+false,54,324,Godstrike Arch,unique,8lw
+false,40,325,Langer Briser,unique,8lx
+false,44,326,Pus Spiter,unique,8mx
+false,59,327,Buriza-Do Kyanon,unique,8hx
+false,57,328,Demon Machine,unique,8rx
+false,36,330,Peasent Crown,unique,xap
+false,39,331,Rockstopper,unique,xkp
+false,43,332,Stealskull,unique,xlm
+false,46,333,Darksight Helm,unique,xhl
+false,52,334,Valkiry Wing,unique,xhm
+false,57,335,Crown of Thieves,unique,xrn
+false,49,336,Blackhorn's Face,unique,xsk
+false,49,337,Vampiregaze,unique,xh9
+false,36,338,The Spirit Shroud,unique,xui
+false,37,339,Skin of the Vipermagi,unique,xea
+false,39,340,Skin of the Flayerd One,unique,xla
+false,41,341,Ironpelt,unique,xtu
+false,43,342,Spiritforge,unique,xng
+false,45,343,Crow Caw,unique,xcl
+false,46,344,Shaftstop,unique,xhn
+false,49,345,Duriel's Shell,unique,xrs
+false,50,346,Skullder's Ire,unique,xpl
+false,53,347,Guardian Angel,unique,xlt
+false,56,348,Toothrow,unique,xld
+false,59,349,Atma's Wail,unique,xth
+false,61,350,Black Hades,unique,xul
+false,63,351,Corpsemourn,unique,xar
+false,59,352,Que-Hegan's Wisdon,unique,xtp
+false,36,353,Visceratuant,unique,xuc
+false,39,354,Mosers Blessed Circle,unique,xml
+false,43,355,Stormchaser,unique,xrg
+false,46,356,Tiamat's Rebuke,unique,xit
+false,52,357,Kerke's Sanctuary,unique,xow
+false,58,358,Radimant's Sphere,unique,xts
+false,49,359,Lidless Wall,unique,xsh
+false,43,360,Lance Guard,unique,xpk
+false,37,361,Venom Grip,unique,xlg
+false,39,362,Gravepalm,unique,xvg
+false,44,363,Ghoulhide,unique,xmg
+false,50,364,Lavagout,unique,xtg
+false,55,365,Hellmouth,unique,xhg
+false,37,366,Infernostride,unique,xlb
+false,40,367,Waterwalk,unique,xvb
+false,44,368,Silkweave,unique,xmb
+false,50,369,Wartraveler,unique,xtb
+false,55,370,Gorerider,unique,xhb
+false,37,371,String of Ears,unique,zlb
+false,39,372,Razortail,unique,zvb
+false,45,373,Gloomstrap,unique,zmb
+false,49,374,Snowclash,unique,ztb
+false,55,375,Thudergod's Vigor,unique,zhb
+false,69,377,Harlequin Crest,unique,uap
+false,77,378,Veil of Steel,unique,uhm
+false,85,379,The Gladiator's Bane,unique,utu
+false,85,380,Arkaine's Valor,unique,upl
+false,67,381,Blackoak Shield,unique,uml
+false,77,382,Stormshield,unique,uit
+false,71,383,Hellslayer,unique,7bt
+false,75,384,Messerschmidt's Reaver,unique,7ga
+false,70,385,Baranar's Star,unique,7mt
+false,83,386,Schaefer's Hammer,unique,7wh
+false,85,387,The Cranium Basher,unique,7gm
+false,66,388,Lightsabre,unique,7cr
+false,75,389,Doombringer,unique,7b7
+false,85,390,The Grandfather,unique,7gd
+false,69,391,Wizardspike,unique,7dg
+false,95,392,Constricting Ring,unique,rin
+false,78,393,Stormspire,unique,7wc
+false,77,394,Eaglehorn,unique,6l7
+false,80,395,Windforce,unique,6lw
+false,66,397,Bul Katho's Wedding Band,unique,rin
+false,58,398,The Cat's Eye,unique,amu
+false,73,399,The Rising Sun,unique,amu
+false,58,400,Crescent Moon,unique,amu
+false,80,401,Mara's Kaleidoscope,unique,amu
+false,60,402,Atma's Scarab,unique,amu
+false,53,403,Dwarf Star,unique,rin
+false,53,404,Raven Frost,unique,rin
+false,73,405,Highlord's Wrath,unique,amu
+false,55,406,Saracen's Chance,unique,amu
+false,50,408,Arreat's Face,unique,baa
+false,50,409,Homunculus,unique,nea
+false,50,410,Titan's Revenge,unique,ama
+false,50,411,Lycander's Aim,unique,am7
+false,50,412,Lycander's Flank,unique,am9
+false,50,413,The Oculus,unique,oba
+false,50,414,Herald of Zakarum,unique,pa9
+false,50,415,Cutthroat1,unique,9tw
+false,50,416,Jalal's Mane,unique,dra
+false,65,417,The Scalper,unique,9ta
+false,69,418,Bloodmoon,unique,7sb
+false,73,419,Djinnslayer,unique,7sm
+false,52,420,Deathbit,unique,9tk
+false,83,421,Warshrike,unique,7bk
+false,79,422,Gutsiphon,unique,6rx
+false,75,423,Razoredge,unique,7ha
+false,71,425,Demonlimb,unique,7sp
+false,70,426,Steelshade,unique,ulm
+false,86,427,Tomb Reaver,unique,7pa
+false,74,428,Deaths's Web,unique,7gw
+false,77,429,Nature's Peace,unique,rin
+false,87,430,Azurewrath,unique,7cr
+false,73,431,Seraph's Hymn,unique,amu
+false,76,433,Fleshripper,unique,7kr
+false,72,435,Horizon's Tornado,unique,7fl
+false,76,436,Stone Crusher,unique,7wh
+false,74,437,Jadetalon,unique,7wb
+false,79,438,Shadowdancer,unique,uhb
+false,71,439,Cerebus,unique,drb
+false,87,440,Tyrael's Might,unique,uar
+false,82,441,Souldrain,unique,umg
+false,80,442,Runemaster,unique,72a
+false,78,443,Deathcleaver,unique,7wa
+false,83,444,Executioner's Justice,unique,7gi
+false,72,445,Stoneraven,unique,amd
+false,73,446,Leviathan,unique,uld
+false,84,448,Wisp,unique,rin
+false,78,449,Gargoyle's Bite,unique,7ts
+false,76,450,Lacerator,unique,7b8
+false,86,451,Mang Song's Lesson,unique,6ws
+false,79,452,Viperfork,unique,7br
+false,82,453,Ethereal Edge,unique,7ba
+false,69,454,Demonhorn's Edge,unique,bad
+false,83,455,The Reaper's Toll,unique,7s8
+false,75,456,Spiritkeeper,unique,drd
+false,84,457,Hellrack,unique,6hx
+false,85,458,Alma Negra,unique,pac
+false,72,459,Darkforge Spawn,unique,nef
+false,73,460,Widowmaker,unique,6sw
+false,79,461,Bloodraven's Charge,unique,amb
+false,70,462,Ghostflame,unique,7bl
+false,85,463,Shadowkiller,unique,7cs
+false,78,464,Gimmershred,unique,7ta
+false,84,465,Griffon's Eye,unique,ci3
+false,76,466,Windhammer,unique,7m7
+false,77,467,Thunderstroke,unique,amf
+false,76,469,Demon's Arch,unique,7s7
+false,80,470,Boneflame,unique,nee
+false,77,471,Steelpillar,unique,7p7
+false,75,472,Nightwing's Veil,unique,uhm
+false,86,473,Crown of Ages,unique,urn
+false,85,474,Andariel's Visage,unique,usk
+false,84,476,Dragonscale,unique,pae
+false,74,477,Steel Carapice,unique,uul
+false,84,478,Medusa's Gaze,unique,uow
+false,82,479,Ravenlore,unique,dre
+false,84,480,Boneshade,unique,7bw
+false,79,482,Flamebellow,unique,7gs
+false,81,483,Fathom,unique,obf
+false,85,484,Wolfhowl,unique,bac
+false,76,485,Spirit Ward,unique,uts
+false,85,486,Kira's Guardian,unique,ci2
+false,83,487,Ormus' Robes,unique,uui
+false,70,488,Gheed's Fortune,unique,cm3
+false,86,489,Stormlash,unique,7fl
+false,85,490,Halaberd's Reign,unique,bae
+false,78,492,Spike Thorn,unique,upk
+false,84,493,Dracul's Grasp,unique,uvg
+false,78,494,Frostwind,unique,7ls
+false,82,495,Templar's Might,unique,uar
+false,80,496,Eschuta's temper,unique,obc
+false,75,497,Firelizard's Talons,unique,7lw
+false,72,498,Sandstorm Trek,unique,uvb
+false,74,499,Marrowwalk,unique,umb
+false,69,500,Heaven's Light,unique,7sc
+false,87,502,Arachnid Mesh,unique,ulc
+false,68,503,Nosferatu's Coil,unique,uvc
+false,85,504,Metalgrid,unique,amu
+false,71,505,Verdugo's Hearty Cord,unique,umc
+false,68,507,Carrion Wind,unique,rin
+false,73,508,Giantskull,unique,uh9
+false,68,509,Ironward,unique,7ws
+false,110,510,Annihilus,unique,cm1
+false,85,511,Arioc's Needle,unique,7sr
+false,71,512,Cranebeak,unique,7mp
+false,76,513,Nord's Tenderizer,unique,7cl
+false,77,514,Earthshifter,unique,7gm
+false,84,515,Wraithflight,unique,7gl
+false,72,516,Bonehew,unique,7o7
+false,74,517,Ondal's Wisdom,unique,6cs
+false,80,518,The Reedeemer,unique,7sc
+false,83,519,Headhunter's Glory,unique,ush
+false,78,520,Steelrend,unique,uhg
+false,85,521,Rainbow Facet,unique,jew
+false,85,522,Rainbow Facet,unique,jew
+false,85,523,Rainbow Facet,unique,jew
+false,85,524,Rainbow Facet,unique,jew
+false,85,525,Rainbow Facet,unique,jew
+false,85,526,Rainbow Facet,unique,jew
+false,85,527,Rainbow Facet,unique,jew
+false,85,528,Rainbow Facet,unique,jew
+false,110,529,Hellfire Torch,unique,cm2

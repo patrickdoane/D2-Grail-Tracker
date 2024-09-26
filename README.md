@@ -4,7 +4,9 @@ Holy Grail Tracker for D2:R
 
 ## Description
 
-Track the status of your [Holy Grail](https://www.reddit.com/r/diablo2/comments/sjipqb/what_exactly_is_a_holy_grail_run/) for Diablo II: Resurrected
+Track the status of your [Holy Grail](https://www.reddit.com/r/diablo2/comments/sjipqb/what_exactly_is_a_holy_grail_run/) for Diablo II: Resurrected.
+
+This application is currently meant to run locally.
 
 ## Getting Started
 
@@ -21,6 +23,11 @@ Track the status of your [Holy Grail](https://www.reddit.com/r/diablo2/comments/
 * Build `$PROJECT_ROOT/grail-server` in Java IDE of your choice
 * `cd $PROJECT_ROOT/grail-client && npm install` 
 * Create a PostgreSQL database named 'grail'
+```
+sudo -u postgres psql
+sudo -u postgres createuser <username>
+sudo -u postgres createdb grail
+```
 * Add `env.properties` file to `$PROJECT_ROOT/grail-server` with the following:
 ```
 # env.properties
@@ -33,9 +40,14 @@ API_KEY=yourApiKey
 ```
 node fetchSets.js
 node fetchUniques.js
+node convertItemsToCsv.js
 ```
-* TODO: convert generated json files to csv
-* TODO: add script to import csv to postgresql db
+* Import items into db via console (or using a gui tool)
+```
+# importing with psql (not tested yet)
+psql -c "\copy items FROM '$PROJECT_ROOT/setItems.csv' delimiter ',' csv"
+psql -c "\copy items FROM '$PROJECT_ROOT/uniqueItems.csv' delimiter ',' csv"
+```
 
 ### Executing program
 * Run grail-server as a Java application
